@@ -48,44 +48,49 @@ public class Despensa {
             // Tomar cafés
             lockCafe.lock();
             try {
-                while (estanteriaCafes.isEmpty() && nc > 0) {
+                // Mientras me falten cafés por coger...
+                while (nc > 0) {
+                    // Si no hay nada, espero.
+                    while (estanteriaCafes.isEmpty()){
                     cafeAvailable.await();
-                }
-                // Cogemos el máximo posible hasta cubrir la demanda (Parcial o Total)
-                int disponibles = estanteriaCafes.size();
-                int aCoger = Math.min(disponibles, nc);
+                    }   
+                    // Cogemos el máximo posible hasta cubrir la demanda (Parcial o Total)
+                    int disponibles = estanteriaCafes.size();
+                    int aCoger = Math.min(disponibles, nc);
 
-                for (int i = 0; i < aCoger; i++) {
-                    estanteriaCafes.remove(0);
-                    contadorCafe--;
-                    tomadosCafe++;
+                    for (int i = 0; i < aCoger; i++) {
+                        estanteriaCafes.remove(0);
+                        contadorCafe--;
+                        tomadosCafe++;
+                    }
+                    nc -= aCoger;
                 }
-            } finally {
+            }finally {
                 lockCafe.unlock();
             }
-
             // Tomar rosquillas
             lockRosquilla.lock();
             try {
-                while (estanteriaRosquillas.isEmpty() && nr > 0) {
-                    rosquillaAvailable.await();
-                }
-                int disponibles = estanteriaRosquillas.size();
-                int aCoger = Math.min(disponibles, nr);
+                while (nr > 0) {
+                    while (estanteriaRosquillas.isEmpty() && nr > 0) {
+                        rosquillaAvailable.await();
+                    }
+                    int disponibles = estanteriaRosquillas.size();
+                    int aCoger = Math.min(disponibles, nr);
 
-                for (int i = 0; i < aCoger; i++) {
-                    String comanda = estanteriaRosquillas.remove(0);
-                    contadorRosquilla--;
-                    tomadosRosquillas++;
-                    System.out.println("Vendedor retira: " + comanda);
+                    for (int i = 0; i < aCoger; i++) {
+                        String comanda = estanteriaRosquillas.remove(0);
+                        contadorRosquilla--;
+                        tomadosRosquillas++;
+                        System.out.println("Vendedor retira: " + comanda);
+                    }
+                    nr -= aCoger;
                 }
-            } finally {
+            }finally {
                 lockRosquilla.unlock();
             }
-            Logger.log(
-                    id + " ha cogido " + tomadosCafe + " cafés y " + tomadosRosquillas + " rosquillas (Parcial/Total)");
-            System.out.println(
-                    id + " ha cogido " + tomadosCafe + " cafés y " + tomadosRosquillas + " rosquillas (Parcial/Total)");
+            Logger.log(id + " ha cogido " + tomadosCafe + " cafés y " + tomadosRosquillas + " rosquillas (Parcial/Total)");
+            System.out.println(id + " ha cogido " + tomadosCafe + " cafés y " + tomadosRosquillas + " rosquillas (Parcial/Total)");
             Thread.sleep((int) (1000 + (3000 - 1000) * Math.random())); // tiempo en despensa
         } finally {
             aforoVendedores.release();
@@ -161,3 +166,4 @@ public class Despensa {
         }
     }
 }
+
