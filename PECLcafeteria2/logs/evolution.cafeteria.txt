@@ -1,0 +1,1809 @@
+[11:15:10.016] SISTEMA DE CAFETERIA INICIADO
+[11:15:10.031] INIT entra en la despensa para depositar
+[11:15:10.035] CocineroINIT ha colocado los productos en la despensa
+[11:15:10.037] INIT entra en el mostrador
+[11:15:11.888] INIT ha colocado los productos en el mostrador
+[11:15:11.889] Stock inicial: despensa 250/250, mostrador 125/125
+[11:15:12.729] V-0001 descansa en la sala
+[11:15:12.729] B-0001 descansa en la sala
+[11:15:12.730] C-0001 esta en el parque
+[11:15:13.408] V-0002 descansa en la sala
+[11:15:14.249] B-0002 descansa en la sala
+[11:15:14.779] C-0002 esta en el parque
+[11:15:15.568] V-0003 descansa en la sala
+[11:15:15.712] B-0003 descansa en la sala
+[11:15:15.958] C-0003 esta en el parque
+[11:15:16.698] V-0004 descansa en la sala
+[11:15:17.378] B-0004 descansa en la sala
+[11:15:17.550] C-0004 esta en el parque
+[11:15:17.850] C-0001 se dirige a la cafeteria
+[11:15:18.828] V-0005 descansa en la sala
+[11:15:18.836] V-0002 se dirige a la despensa
+[11:15:18.927] V-0001 se dirige a la despensa
+[11:15:19.144] B-0005 descansa en la sala
+[11:15:19.595] C-0005 esta en el parque
+[11:15:19.998] V-0006 descansa en la sala
+[11:15:20.482] B-0006 descansa en la sala
+[11:15:20.942] V-0002 entra en la despensa
+[11:15:20.943] V-0002 retira 6 cafes
+[11:15:20.944] V-0002 retira 7 rosquillas
+[11:15:21.313] C-0003 se dirige a la cafeteria
+[11:15:21.336] V-0001 entra en la despensa
+[11:15:21.336] V-0001 retira 3 cafes
+[11:15:21.336] V-0001 retira 7 rosquillas
+[11:15:21.670] B-0002 se dirige a la cocina
+[11:15:21.907] B-0007 descansa en la sala
+[11:15:22.157] V-0004 se dirige a la despensa
+[11:15:22.163] C-0006 esta en el parque
+[11:15:22.274] C-0002 se dirige a la cafeteria
+[11:15:22.326] B-0001 se dirige a la cocina
+[11:15:22.327] V-0002 ha seleccionado 6 cafes y 7 rosquillas
+[11:15:22.327] V-0002 sale de la despensa
+[11:15:22.327] V-0002 se dirige al mostrador
+[11:15:22.329] V-0007 descansa en la sala
+[11:15:22.995] V-0008 descansa en la sala
+[11:15:23.058] B-0008 descansa en la sala
+[11:15:23.402] V-0001 ha seleccionado 3 cafes y 7 rosquillas
+[11:15:23.402] C-0007 esta en el parque
+[11:15:23.403] V-0001 sale de la despensa
+[11:15:23.404] V-0001 se dirige al mostrador
+[11:15:23.453] C-0004 se dirige a la cafeteria
+[11:15:23.708] B-0004 se dirige a la cocina
+[11:15:23.884] B-0003 se dirige a la cocina
+[11:15:24.166] B-0005 se dirige a la cocina
+[11:15:24.212] V-0004 entra en la despensa
+[11:15:24.212] V-0004 retira 3 cafes
+[11:15:24.213] V-0004 retira 6 rosquillas
+[11:15:24.233] B-0009 descansa en la sala
+[11:15:24.257] C-0001 entra en la zona previa
+[11:15:24.358] V-0002 entra en el mostrador
+[11:15:24.549] B-0002 entra en la cocina
+[11:15:24.549] B-0002 produce 4 cafes y 7 rosquillas
+[11:15:24.715] V-0003 se dirige a la despensa
+[11:15:25.008] B-0001 entra en la cocina
+[11:15:25.008] B-0001 produce 3 cafes y 8 rosquillas
+[11:15:25.065] B-0004 entra en la cocina
+[11:15:25.065] B-0004 produce 3 cafes y 7 rosquillas
+[11:15:25.099] V-0009 descansa en la sala
+[11:15:25.286] B-0010 descansa en la sala
+[11:15:25.366] V-0002 ha colocado los productos en el mostrador
+[11:15:25.366] V-0002 sale del mostrador
+[11:15:25.366] V-0002 vuelve a la sala de descanso
+[11:15:25.439] V-0006 se dirige a la despensa
+[11:15:25.439] C-0008 esta en el parque
+[11:15:25.634] C-0003 entra en la zona previa
+[11:15:25.711] B-0005 entra en la cocina
+[11:15:25.711] B-0005 produce 3 cafes y 8 rosquillas
+[11:15:25.821] V-0001 entra en el mostrador
+[11:15:25.891] C-0001 sale de la zona previa
+[11:15:25.892] C-0001 entra en el mostrador
+[11:15:25.893] C-0001 retira 1 cafes
+[11:15:25.894] C-0001 retira 4 rosquillas
+[11:15:26.090] C-0005 se dirige a la cafeteria
+[11:15:26.367] V-0010 descansa en la sala
+[11:15:26.466] V-0004 ha seleccionado 3 cafes y 6 rosquillas
+[11:15:26.466] V-0004 sale de la despensa
+[11:15:26.466] V-0004 se dirige al mostrador
+[11:15:26.701] C-0009 esta en el parque
+[11:15:26.766] B-0003 entra en la cocina
+[11:15:26.766] B-0003 produce 5 cafes y 8 rosquillas
+[11:15:27.008] V-0003 entra en la despensa
+[11:15:27.008] V-0003 retira 3 cafes
+[11:15:27.009] V-0003 retira 9 rosquillas
+[11:15:27.220] V-0006 entra en la despensa
+[11:15:27.220] V-0006 retira 6 cafes
+[11:15:27.221] V-0006 retira 6 rosquillas
+[11:15:27.242] B-0011 descansa en la sala
+[11:15:27.288] C-0003 sale de la zona previa
+[11:15:27.288] C-0003 entra en el mostrador
+[11:15:27.288] C-0003 retira 3 cafes
+[11:15:27.289] C-0003 retira 2 rosquillas
+[11:15:27.488] C-0006 se dirige a la cafeteria
+[11:15:27.544] V-0001 ha colocado los productos en el mostrador
+[11:15:27.544] V-0001 sale del mostrador
+[11:15:27.546] V-0001 vuelve a la sala de descanso
+[11:15:27.968] C-0010 esta en el parque
+[11:15:28.008] V-0005 se dirige a la despensa
+[11:15:28.018] C-0001 ha seleccionado 1 cafes y 4 rosquillas
+[11:15:28.018] C-0001 sale del mostrador
+[11:15:28.019] C-0001 accede a la caja
+[11:15:28.068] V-0011 descansa en la sala
+[11:15:28.420] B-0007 se dirige a la cocina
+[11:15:28.622] B-0012 descansa en la sala
+[11:15:28.778] V-0007 se dirige a la despensa
+[11:15:28.794] V-0002 descansa en la sala
+[11:15:29.054] V-0006 ha seleccionado 6 cafes y 6 rosquillas
+[11:15:29.054] V-0006 sale de la despensa
+[11:15:29.054] V-0006 se dirige al mostrador
+[11:15:29.261] B-0009 se dirige a la cocina
+[11:15:29.296] C-0002 entra en la zona previa
+[11:15:29.446] B-0006 se dirige a la cocina
+[11:15:29.602] B-0002 sale de la cocina
+[11:15:29.602] B-0002 se dirige a la despensa
+[11:15:29.642] V-0012 descansa en la sala
+[11:15:29.698] C-0004 entra en la zona previa
+[11:15:29.710] V-0003 ha seleccionado 3 cafes y 9 rosquillas
+[11:15:29.710] V-0003 sale de la despensa
+[11:15:29.710] V-0003 se dirige al mostrador
+[11:15:29.812] C-0011 esta en el parque
+[11:15:29.974] V-0007 entra en la despensa
+[11:15:29.974] V-0007 retira 5 cafes
+[11:15:29.974] V-0007 retira 6 rosquillas
+[11:15:30.133] C-0001 paga y sale de la caja
+[11:15:30.134] C-0001 entra al area de consumo
+[11:15:30.142] C-0003 ha seleccionado 3 cafes y 2 rosquillas
+[11:15:30.142] C-0003 sale del mostrador
+[11:15:30.142] C-0003 accede a la caja
+[11:15:30.547] B-0013 descansa en la sala
+[11:15:30.556] V-0005 entra en la despensa
+[11:15:30.556] V-0005 retira 3 cafes
+[11:15:30.556] V-0005 retira 6 rosquillas
+[11:15:30.651] B-0007 entra en la cocina
+[11:15:30.652] B-0007 produce 4 cafes y 8 rosquillas
+[11:15:30.666] B-0008 se dirige a la cocina
+[11:15:30.790] B-0009 entra en la cocina
+[11:15:30.790] B-0009 produce 5 cafes y 4 rosquillas
+[11:15:30.935] C-0002 sale de la zona previa
+[11:15:30.935] C-0002 entra en el mostrador
+[11:15:30.936] C-0002 retira 2 cafes
+[11:15:30.936] C-0002 retira 1 rosquillas
+[11:15:31.054] V-0004 entra en el mostrador
+[11:15:31.067] C-0012 esta en el parque
+[11:15:31.175] C-0006 entra en la zona previa
+[11:15:31.222] V-0009 se dirige a la despensa
+[11:15:31.272] V-0001 descansa en la sala
+[11:15:31.419] V-0013 descansa en la sala
+[11:15:31.569] C-0004 sale de la zona previa
+[11:15:31.569] C-0004 entra en el mostrador
+[11:15:31.569] C-0004 retira 1 cafes
+[11:15:31.569] C-0004 retira 1 rosquillas
+[11:15:31.704] V-0008 se dirige a la despensa
+[11:15:31.705] C-0007 se dirige a la cafeteria
+[11:15:31.976] B-0001 sale de la cocina
+[11:15:31.976] B-0001 se dirige a la despensa
+[11:15:31.979] B-0008 entra en la cocina
+[11:15:31.979] B-0008 produce 3 cafes y 7 rosquillas
+[11:15:31.983] B-0014 descansa en la sala
+[11:15:32.152] V-0004 ha colocado los productos en el mostrador
+[11:15:32.152] V-0004 sale del mostrador
+[11:15:32.153] V-0004 vuelve a la sala de descanso
+[11:15:32.162] B-0006 entra en la cocina
+[11:15:32.162] B-0006 produce 4 cafes y 4 rosquillas
+[11:15:32.172] C-0003 paga y sale de la caja
+[11:15:32.173] C-0003 entra al area de consumo
+[11:15:32.263] V-0006 entra en el mostrador
+[11:15:32.422] V-0005 ha seleccionado 3 cafes y 6 rosquillas
+[11:15:32.422] V-0005 sale de la despensa
+[11:15:32.422] V-0005 se dirige al mostrador
+[11:15:32.443] V-0014 descansa en la sala
+[11:15:32.459] V-0007 ha seleccionado 5 cafes y 6 rosquillas
+[11:15:32.459] V-0007 sale de la despensa
+[11:15:32.459] V-0007 se dirige al mostrador
+[11:15:32.740] B-0010 se dirige a la cocina
+[11:15:32.946] B-0005 sale de la cocina
+[11:15:32.946] B-0005 se dirige a la despensa
+[11:15:33.199] B-0011 se dirige a la cocina
+[11:15:33.304] V-0009 entra en la despensa
+[11:15:33.305] V-0009 retira 5 cafes
+[11:15:33.306] V-0009 retira 6 rosquillas
+[11:15:33.505] C-0009 se dirige a la cafeteria
+[11:15:33.584] C-0013 esta en el parque
+[11:15:33.659] V-0008 entra en la despensa
+[11:15:33.659] V-0008 retira 3 cafes
+[11:15:33.661] V-0008 retira 8 rosquillas
+[11:15:33.701] C-0006 sale de la zona previa
+[11:15:33.701] C-0006 entra en el mostrador
+[11:15:33.702] C-0006 retira 1 cafes
+[11:15:33.702] C-0006 retira 4 rosquillas
+[11:15:33.712] B-0004 sale de la cocina
+[11:15:33.712] B-0004 se dirige a la despensa
+[11:15:33.845] V-0010 se dirige a la despensa
+[11:15:33.893] B-0015 descansa en la sala
+[11:15:33.912] B-0012 se dirige a la cocina
+[11:15:34.152] V-0015 descansa en la sala
+[11:15:34.199] C-0002 ha seleccionado 2 cafes y 1 rosquillas
+[11:15:34.199] C-0002 sale del mostrador
+[11:15:34.199] C-0002 accede a la caja
+[11:15:34.247] V-0006 ha colocado los productos en el mostrador
+[11:15:34.247] V-0006 sale del mostrador
+[11:15:34.249] V-0006 vuelve a la sala de descanso
+[11:15:34.353] V-0003 entra en el mostrador
+[11:15:34.531] B-0002 entra en la despensa para depositar
+[11:15:34.531] CocineroB-0002 ha colocado los productos en la despensa
+[11:15:34.532] B-0002 sale de la despensa
+[11:15:34.533] B-0002 vuelve a la sala de descanso
+[11:15:34.565] C-0005 entra en la zona previa
+[11:15:34.669] V-0008 ha seleccionado 3 cafes y 8 rosquillas
+[11:15:34.669] V-0008 sale de la despensa
+[11:15:34.670] V-0008 se dirige al mostrador
+[11:15:34.833] B-0010 entra en la cocina
+[11:15:34.833] B-0010 produce 3 cafes y 6 rosquillas
+[11:15:34.969] V-0009 ha seleccionado 5 cafes y 6 rosquillas
+[11:15:34.969] V-0009 sale de la despensa
+[11:15:34.969] V-0009 se dirige al mostrador
+[11:15:35.056] V-0002 se dirige a la despensa
+[11:15:35.065] C-0004 ha seleccionado 1 cafes y 1 rosquillas
+[11:15:35.065] C-0004 sale del mostrador
+[11:15:35.065] C-0004 accede a la caja
+[11:15:35.166] V-0010 entra en la despensa
+[11:15:35.166] V-0010 retira 3 cafes
+[11:15:35.166] V-0010 retira 9 rosquillas
+[11:15:35.264] B-0016 descansa en la sala
+[11:15:35.335] B-0011 entra en la cocina
+[11:15:35.335] B-0011 produce 4 cafes y 7 rosquillas
+[11:15:35.386] C-0008 se dirige a la cafeteria
+[11:15:35.748] C-0014 esta en el parque
+[11:15:35.755] V-0016 descansa en la sala
+[11:15:35.860] B-0004 entra en la despensa para depositar
+[11:15:35.860] CocineroB-0004 ha colocado los productos en la despensa
+[11:15:35.860] B-0004 sale de la despensa
+[11:15:35.861] B-0004 vuelve a la sala de descanso
+[11:15:35.865] V-0003 ha colocado los productos en el mostrador
+[11:15:35.865] V-0003 sale del mostrador
+[11:15:35.865] V-0003 vuelve a la sala de descanso
+[11:15:36.050] B-0013 se dirige a la cocina
+[11:15:36.062] C-0006 ha seleccionado 1 cafes y 4 rosquillas
+[11:15:36.062] C-0006 sale del mostrador
+[11:15:36.062] C-0006 accede a la caja
+[11:15:36.116] B-0003 sale de la cocina
+[11:15:36.116] B-0003 se dirige a la despensa
+[11:15:36.233] B-0005 entra en la despensa para depositar
+[11:15:36.233] C-0005 sale de la zona previa
+[11:15:36.233] CocineroB-0005 ha colocado los productos en la despensa
+[11:15:36.234] C-0005 entra en el mostrador
+[11:15:36.234] B-0005 sale de la despensa
+[11:15:36.235] C-0005 retira 1 cafes
+[11:15:36.235] B-0005 vuelve a la sala de descanso
+[11:15:36.235] C-0005 retira 3 rosquillas
+[11:15:36.328] V-0007 entra en el mostrador
+[11:15:36.349] B-0001 entra en la despensa para depositar
+[11:15:36.349] CocineroB-0001 ha colocado los productos en la despensa
+[11:15:36.349] B-0001 sale de la despensa
+[11:15:36.349] B-0001 vuelve a la sala de descanso
+[11:15:36.393] B-0012 entra en la cocina
+[11:15:36.393] B-0012 produce 3 cafes y 7 rosquillas
+[11:15:36.507] V-0010 ha seleccionado 3 cafes y 9 rosquillas
+[11:15:36.507] V-0010 sale de la despensa
+[11:15:36.508] V-0010 se dirige al mostrador
+[11:15:36.583] V-0004 descansa en la sala
+[11:15:36.669] V-0005 entra en el mostrador
+[11:15:36.698] C-0010 se dirige a la cafeteria
+[11:15:36.715] B-0017 descansa en la sala
+[11:15:36.818] V-0012 se dirige a la despensa
+[11:15:36.931] C-0015 esta en el parque
+[11:15:37.034] V-0008 entra en el mostrador
+[11:15:37.165] V-0017 descansa en la sala
+[11:15:37.246] V-0002 entra en la despensa
+[11:15:37.246] V-0002 retira 3 cafes
+[11:15:37.247] V-0002 retira 5 rosquillas
+[11:15:37.394] V-0011 se dirige a la despensa
+[11:15:37.641] V-0013 se dirige a la despensa
+[11:15:37.667] V-0018 descansa en la sala
+[11:15:37.718] C-0012 se dirige a la cafeteria
+[11:15:37.724] B-0018 descansa en la sala
+[11:15:37.724] B-0007 sale de la cocina
+[11:15:37.724] B-0007 se dirige a la despensa
+[11:15:38.132] V-0006 descansa en la sala
+[11:15:38.196] V-0005 ha colocado los productos en el mostrador
+[11:15:38.196] V-0005 sale del mostrador
+[11:15:38.197] V-0005 vuelve a la sala de descanso
+[11:15:38.234] V-0019 descansa en la sala
+[11:15:38.259] C-0016 esta en el parque
+[11:15:38.378] C-0005 ha seleccionado 1 cafes y 3 rosquillas
+[11:15:38.378] C-0005 sale del mostrador
+[11:15:38.378] C-0005 accede a la caja
+[11:15:38.436] B-0013 entra en la cocina
+[11:15:38.436] B-0013 produce 4 cafes y 8 rosquillas
+[11:15:38.512] B-0002 descansa en la sala
+[11:15:38.716] V-0007 ha colocado los productos en el mostrador
+[11:15:38.716] V-0007 sale del mostrador
+[11:15:38.716] V-0007 vuelve a la sala de descanso
+[11:15:38.940] V-0013 entra en la despensa
+[11:15:38.940] C-0004 paga y sale de la caja
+[11:15:38.941] V-0013 retira 5 cafes
+[11:15:38.942] C-0004 entra al area de consumo
+[11:15:38.942] V-0013 retira 6 rosquillas
+[11:15:39.000] B-0014 se dirige a la cocina
+[11:15:39.024] B-0003 entra en la despensa para depositar
+[11:15:39.024] CocineroB-0003 ha colocado los productos en la despensa
+[11:15:39.024] B-0003 sale de la despensa
+[11:15:39.025] B-0003 vuelve a la sala de descanso
+[11:15:39.071] C-0011 se dirige a la cafeteria
+[11:15:39.125] C-0002 paga y sale de la caja
+[11:15:39.126] C-0002 entra al area de consumo
+[11:15:39.136] V-0009 entra en el mostrador
+[11:15:39.274] C-0007 entra en la zona previa
+[11:15:39.394] V-0012 entra en la despensa
+[11:15:39.394] V-0012 retira 4 cafes
+[11:15:39.395] V-0012 retira 9 rosquillas
+[11:15:39.616] V-0014 se dirige a la despensa
+[11:15:39.627] B-0008 sale de la cocina
+[11:15:39.627] B-0008 se dirige a la despensa
+[11:15:39.654] B-0019 descansa en la sala
+[11:15:39.668] V-0008 ha colocado los productos en el mostrador
+[11:15:39.668] V-0008 sale del mostrador
+[11:15:39.668] V-0008 vuelve a la sala de descanso
+[11:15:39.973] V-0013 ha seleccionado 5 cafes y 6 rosquillas
+[11:15:39.973] V-0013 sale de la despensa
+[11:15:39.973] V-0013 se dirige al mostrador
+[11:15:40.032] B-0004 descansa en la sala
+[11:15:40.085] V-0002 ha seleccionado 3 cafes y 5 rosquillas
+[11:15:40.085] V-0002 sale de la despensa
+[11:15:40.086] V-0002 se dirige al mostrador
+[11:15:40.213] V-0009 ha colocado los productos en el mostrador
+[11:15:40.213] V-0009 sale del mostrador
+[11:15:40.214] V-0009 vuelve a la sala de descanso
+[11:15:40.220] B-0007 entra en la despensa para depositar
+[11:15:40.220] CocineroB-0007 ha colocado los productos en la despensa
+[11:15:40.221] B-0007 sale de la despensa
+[11:15:40.221] B-0007 vuelve a la sala de descanso
+[11:15:40.222] C-0006 paga y sale de la caja
+[11:15:40.222] C-0006 entra al area de consumo
+[11:15:40.327] C-0009 entra en la zona previa
+[11:15:40.332] V-0011 entra en la despensa
+[11:15:40.332] V-0011 retira 5 cafes
+[11:15:40.332] V-0011 retira 9 rosquillas
+[11:15:40.344] V-0020 descansa en la sala
+[11:15:40.392] V-0010 entra en el mostrador
+[11:15:40.499] C-0017 esta en el parque
+[11:15:40.537] V-0003 descansa en la sala
+[11:15:40.594] B-0006 sale de la cocina
+[11:15:40.594] B-0006 se dirige a la despensa
+[11:15:40.606] B-0009 sale de la cocina
+[11:15:40.606] B-0009 se dirige a la despensa
+[11:15:40.618] B-0001 descansa en la sala
+[11:15:40.633] B-0011 sale de la cocina
+[11:15:40.633] B-0011 se dirige a la despensa
+[11:15:40.800] B-0014 entra en la cocina
+[11:15:40.800] B-0014 produce 2 cafes y 4 rosquillas
+[11:15:40.859] B-0010 sale de la cocina
+[11:15:40.859] B-0010 se dirige a la despensa
+[11:15:40.954] B-0005 descansa en la sala
+[11:15:41.055] V-0015 se dirige a la despensa
+[11:15:41.103] V-0016 se dirige a la despensa
+[11:15:41.174] B-0020 descansa en la sala
+[11:15:41.201] V-0001 se dirige a la despensa
+[11:15:41.290] C-0013 se dirige a la cafeteria
+[11:15:41.507] V-0010 ha colocado los productos en el mostrador
+[11:15:41.507] V-0010 sale del mostrador
+[11:15:41.508] V-0010 vuelve a la sala de descanso
+[11:15:41.692] V-0021 descansa en la sala
+[11:15:41.706] V-0007 descansa en la sala
+[11:15:41.755] V-0008 descansa en la sala
+[11:15:41.886] B-0008 entra en la despensa para depositar
+[11:15:41.886] CocineroB-0008 ha colocado los productos en la despensa
+[11:15:41.887] B-0008 sale de la despensa
+[11:15:41.887] B-0008 vuelve a la sala de descanso
+[11:15:41.932] V-0011 ha seleccionado 5 cafes y 9 rosquillas
+[11:15:41.932] V-0011 sale de la despensa
+[11:15:41.932] V-0011 se dirige al mostrador
+[11:15:42.175] C-0007 sale de la zona previa
+[11:15:42.175] C-0007 entra en el mostrador
+[11:15:42.175] C-0007 retira 3 cafes
+[11:15:42.176] C-0007 retira 4 rosquillas
+[11:15:42.181] B-0021 descansa en la sala
+[11:15:42.190] V-0016 entra en la despensa
+[11:15:42.191] V-0016 retira 4 cafes
+[11:15:42.191] V-0016 retira 10 rosquillas
+[11:15:42.214] V-0005 descansa en la sala
+[11:15:42.221] V-0012 ha seleccionado 4 cafes y 9 rosquillas
+[11:15:42.221] V-0012 sale de la despensa
+[11:15:42.222] V-0012 se dirige al mostrador
+[11:15:42.333] V-0015 entra en la despensa
+[11:15:42.333] V-0015 retira 4 cafes
+[11:15:42.334] V-0015 retira 6 rosquillas
+[11:15:42.390] V-0014 entra en la despensa
+[11:15:42.390] V-0014 retira 4 cafes
+[11:15:42.392] V-0014 retira 10 rosquillas
+[11:15:42.393] C-0009 sale de la zona previa
+[11:15:42.393] C-0009 entra en el mostrador
+[11:15:42.393] C-0009 retira 1 cafes
+[11:15:42.394] C-0009 retira 1 rosquillas
+[11:15:42.593] C-0010 entra en la zona previa
+[11:15:42.603] C-0018 esta en el parque
+[11:15:42.634] V-0017 se dirige a la despensa
+[11:15:42.758] B-0003 descansa en la sala
+[11:15:42.840] B-0015 se dirige a la cocina
+[11:15:42.861] V-0022 descansa en la sala
+[11:15:42.900] V-0013 entra en el mostrador
+[11:15:42.993] V-0009 descansa en la sala
+[11:15:43.074] B-0011 entra en la despensa para depositar
+[11:15:43.075] CocineroB-0011 ha colocado los productos en la despensa
+[11:15:43.075] B-0011 sale de la despensa
+[11:15:43.076] B-0011 vuelve a la sala de descanso
+[11:15:43.095] C-0005 paga y sale de la caja
+[11:15:43.095] C-0005 entra al area de consumo
+[11:15:43.155] C-0001 termina y se va
+[11:15:43.288] B-0010 entra en la despensa para depositar
+[11:15:43.288] CocineroB-0010 ha colocado los productos en la despensa
+[11:15:43.288] B-0010 sale de la despensa
+[11:15:43.288] B-0010 vuelve a la sala de descanso
+[11:15:43.604] C-0011 entra en la zona previa
+[11:15:43.605] B-0012 sale de la cocina
+[11:15:43.605] B-0012 se dirige a la despensa
+[11:15:43.815] V-0004 se dirige a la despensa
+[11:15:43.818] V-0017 entra en la despensa
+[11:15:43.818] V-0017 retira 5 cafes
+[11:15:43.819] V-0017 retira 9 rosquillas
+[11:15:43.857] V-0001 entra en la despensa
+[11:15:43.857] V-0001 retira 6 cafes
+[11:15:43.857] V-0001 retira 6 rosquillas
+[11:15:44.017] B-0016 se dirige a la cocina
+[11:15:44.063] C-0019 esta en el parque
+[11:15:44.098] C-0008 entra en la zona previa
+[11:15:44.107] V-0011 entra en el mostrador
+[11:15:44.136] B-0006 entra en la despensa para depositar
+[11:15:44.136] CocineroB-0006 ha colocado los productos en la despensa
+[11:15:44.136] B-0006 sale de la despensa
+[11:15:44.137] B-0006 vuelve a la sala de descanso
+[11:15:44.155] C-0014 se dirige a la cafeteria
+[11:15:44.177] B-0022 descansa en la sala
+[11:15:44.295] V-0014 ha seleccionado 4 cafes y 10 rosquillas
+[11:15:44.295] V-0014 sale de la despensa
+[11:15:44.295] V-0014 se dirige al mostrador
+[11:15:44.395] B-0009 entra en la despensa para depositar
+[11:15:44.395] CocineroB-0009 ha colocado los productos en la despensa
+[11:15:44.395] B-0009 sale de la despensa
+[11:15:44.396] B-0009 vuelve a la sala de descanso
+[11:15:44.475] C-0010 sale de la zona previa
+[11:15:44.475] C-0010 entra en el mostrador
+[11:15:44.475] C-0010 retira 2 cafes
+[11:15:44.475] C-0010 retira 1 rosquillas
+[11:15:44.558] V-0013 ha colocado los productos en el mostrador
+[11:15:44.558] V-0013 sale del mostrador
+[11:15:44.558] V-0013 vuelve a la sala de descanso
+[11:15:44.575] B-0008 descansa en la sala
+[11:15:44.670] B-0015 entra en la cocina
+[11:15:44.670] B-0015 produce 4 cafes y 8 rosquillas
+[11:15:44.689] B-0007 descansa en la sala
+[11:15:44.711] C-0015 se dirige a la cafeteria
+[11:15:44.718] V-0018 se dirige a la despensa
+[11:15:44.724] V-0015 ha seleccionado 4 cafes y 6 rosquillas
+[11:15:44.724] V-0015 sale de la despensa
+[11:15:44.724] V-0015 se dirige al mostrador
+[11:15:44.743] C-0007 ha seleccionado 3 cafes y 4 rosquillas
+[11:15:44.743] C-0007 sale del mostrador
+[11:15:44.743] C-0007 accede a la caja
+[11:15:44.807] V-0023 descansa en la sala
+[11:15:44.817] V-0002 entra en el mostrador
+[11:15:44.828] V-0016 ha seleccionado 4 cafes y 10 rosquillas
+[11:15:44.828] V-0016 sale de la despensa
+[11:15:44.828] V-0016 se dirige al mostrador
+[11:15:44.939] C-0009 ha seleccionado 1 cafes y 1 rosquillas
+[11:15:44.939] C-0009 sale del mostrador
+[11:15:44.939] C-0009 accede a la caja
+[11:15:44.944] B-0017 se dirige a la cocina
+[11:15:45.295] B-0023 descansa en la sala
+[11:15:45.325] V-0001 ha seleccionado 6 cafes y 6 rosquillas
+[11:15:45.325] V-0001 sale de la despensa
+[11:15:45.325] V-0001 se dirige al mostrador
+[11:15:45.362] B-0016 entra en la cocina
+[11:15:45.362] B-0016 produce 3 cafes y 4 rosquillas
+[11:15:45.392] V-0024 descansa en la sala
+[11:15:45.668] B-0013 sale de la cocina
+[11:15:45.668] B-0013 se dirige a la despensa
+[11:15:45.691] C-0003 termina y se va
+[11:15:45.748] C-0017 se dirige a la cafeteria
+[11:15:46.046] C-0011 sale de la zona previa
+[11:15:46.047] C-0011 entra en el mostrador
+[11:15:46.047] C-0011 retira 2 cafes
+[11:15:46.047] C-0011 retira 2 rosquillas
+[11:15:46.113] V-0011 ha colocado los productos en el mostrador
+[11:15:46.113] V-0011 sale del mostrador
+[11:15:46.113] V-0011 vuelve a la sala de descanso
+[11:15:46.214] B-0018 se dirige a la cocina
+[11:15:46.256] V-0006 se dirige a la despensa
+[11:15:46.366] C-0012 entra en la zona previa
+[11:15:46.396] V-0025 descansa en la sala
+[11:15:46.401] V-0010 descansa en la sala
+[11:15:46.481] V-0014 entra en el mostrador
+[11:15:46.493] V-0004 entra en la despensa
+[11:15:46.493] V-0004 retira 6 cafes
+[11:15:46.493] V-0004 retira 6 rosquillas
+[11:15:46.646] B-0024 descansa en la sala
+[11:15:46.686] C-0008 sale de la zona previa
+[11:15:46.686] C-0008 entra en el mostrador
+[11:15:46.687] C-0008 retira 2 cafes
+[11:15:46.687] C-0008 retira 1 rosquillas
+[11:15:46.734] V-0017 ha seleccionado 5 cafes y 9 rosquillas
+[11:15:46.734] V-0017 sale de la despensa
+[11:15:46.734] V-0017 se dirige al mostrador
+[11:15:46.755] C-0020 esta en el parque
+[11:15:46.805] V-0002 ha colocado los productos en el mostrador
+[11:15:46.806] V-0002 sale del mostrador
+[11:15:46.806] V-0002 vuelve a la sala de descanso
+[11:15:46.855] B-0012 entra en la despensa para depositar
+[11:15:46.856] CocineroB-0012 ha colocado los productos en la despensa
+[11:15:46.856] B-0012 sale de la despensa
+[11:15:46.857] B-0012 vuelve a la sala de descanso
+[11:15:46.874] B-0009 descansa en la sala
+[11:15:46.932] V-0019 se dirige a la despensa
+[11:15:47.072] C-0016 se dirige a la cafeteria
+[11:15:47.093] V-0018 entra en la despensa
+[11:15:47.093] V-0018 retira 5 cafes
+[11:15:47.093] V-0018 retira 7 rosquillas
+[11:15:47.176] B-0006 descansa en la sala
+[11:15:47.182] V-0012 entra en el mostrador
+[11:15:47.189] B-0004 se dirige a la cocina
+[11:15:47.236] V-0003 se dirige a la despensa
+[11:15:47.293] B-0014 sale de la cocina
+[11:15:47.293] B-0014 se dirige a la despensa
+[11:15:47.416] B-0017 entra en la cocina
+[11:15:47.416] B-0017 produce 3 cafes y 5 rosquillas
+[11:15:47.433] C-0010 ha seleccionado 2 cafes y 1 rosquillas
+[11:15:47.433] C-0010 sale del mostrador
+[11:15:47.433] C-0010 accede a la caja
+[11:15:47.442] V-0013 descansa en la sala
+[11:15:47.505] B-0002 se dirige a la cocina
+[11:15:47.614] V-0016 entra en el mostrador
+[11:15:47.616] B-0010 descansa en la sala
+[11:15:47.840] V-0006 entra en la despensa
+[11:15:47.840] V-0006 retira 3 cafes
+[11:15:47.840] V-0006 retira 6 rosquillas
+[11:15:47.865] B-0011 descansa en la sala
+[11:15:47.955] B-0019 se dirige a la cocina
+[11:15:48.095] C-0009 paga y sale de la caja
+[11:15:48.095] C-0009 entra al area de consumo
+[11:15:48.156] C-0007 paga y sale de la caja
+[11:15:48.157] C-0007 entra al area de consumo
+[11:15:48.164] V-0001 entra en el mostrador
+[11:15:48.222] V-0026 descansa en la sala
+[11:15:48.265] B-0018 entra en la cocina
+[11:15:48.265] B-0018 produce 3 cafes y 8 rosquillas
+[11:15:48.271] B-0001 se dirige a la cocina
+[11:15:48.305] V-0003 entra en la despensa
+[11:15:48.305] V-0003 retira 4 cafes
+[11:15:48.305] V-0003 retira 8 rosquillas
+[11:15:48.410] V-0018 ha seleccionado 5 cafes y 7 rosquillas
+[11:15:48.410] V-0018 sale de la despensa
+[11:15:48.410] V-0018 se dirige al mostrador
+[11:15:48.411] V-0008 se dirige a la despensa
+[11:15:48.584] B-0025 descansa en la sala
+[11:15:48.595] B-0004 entra en la cocina
+[11:15:48.595] B-0004 produce 4 cafes y 5 rosquillas
+[11:15:48.603] V-0019 entra en la despensa
+[11:15:48.603] V-0019 retira 3 cafes
+[11:15:48.603] V-0019 retira 5 rosquillas
+[11:15:48.656] C-0012 sale de la zona previa
+[11:15:48.657] C-0012 entra en el mostrador
+[11:15:48.657] C-0012 retira 1 cafes
+[11:15:48.657] C-0012 retira 0 rosquillas
+[11:15:48.755] V-0017 entra en el mostrador
+[11:15:48.763] C-0011 ha seleccionado 2 cafes y 2 rosquillas
+[11:15:48.763] C-0011 sale del mostrador
+[11:15:48.763] C-0011 accede a la caja
+[11:15:48.842] V-0014 ha colocado los productos en el mostrador
+[11:15:48.842] V-0014 sale del mostrador
+[11:15:48.842] V-0014 vuelve a la sala de descanso
+[11:15:48.945] V-0011 descansa en la sala
+[11:15:48.999] C-0004 termina y se va
+[11:15:49.019] V-0006 ha seleccionado 3 cafes y 6 rosquillas
+[11:15:49.019] V-0006 sale de la despensa
+[11:15:49.019] V-0006 se dirige al mostrador
+[11:15:49.086] V-0021 se dirige a la despensa
+[11:15:49.203] C-0018 se dirige a la cafeteria
+[11:15:49.377] V-0004 ha seleccionado 6 cafes y 6 rosquillas
+[11:15:49.377] V-0004 sale de la despensa
+[11:15:49.377] V-0004 se dirige al mostrador
+[11:15:49.388] B-0003 se dirige a la cocina
+[11:15:49.434] V-0015 entra en el mostrador
+[11:15:49.502] B-0002 entra en la cocina
+[11:15:49.502] B-0002 produce 5 cafes y 8 rosquillas
+[11:15:49.512] V-0003 ha seleccionado 4 cafes y 8 rosquillas
+[11:15:49.512] V-0003 sale de la despensa
+[11:15:49.512] V-0003 se dirige al mostrador
+[11:15:49.560] V-0027 descansa en la sala
+[11:15:49.651] C-0021 esta en el parque
+[11:15:49.706] C-0013 entra en la zona previa
+[11:15:49.713] V-0019 ha seleccionado 3 cafes y 5 rosquillas
+[11:15:49.713] V-0019 sale de la despensa
+[11:15:49.713] V-0019 se dirige al mostrador
+[11:15:49.802] V-0020 se dirige a la despensa
+[11:15:49.864] V-0012 ha colocado los productos en el mostrador
+[11:15:49.864] V-0012 sale del mostrador
+[11:15:49.864] V-0012 vuelve a la sala de descanso
+[11:15:49.884] V-0007 se dirige a la despensa
+[11:15:49.943] C-0002 termina y se va
+[11:15:49.962] B-0019 entra en la cocina
+[11:15:49.962] B-0019 produce 3 cafes y 8 rosquillas
+[11:15:50.053] B-0026 descansa en la sala
+[11:15:50.061] C-0008 ha seleccionado 2 cafes y 1 rosquillas
+[11:15:50.061] C-0008 sale del mostrador
+[11:15:50.061] C-0008 accede a la caja
+[11:15:50.337] V-0021 entra en la despensa
+[11:15:50.337] V-0021 retira 5 cafes
+[11:15:50.338] V-0021 retira 5 rosquillas
+[11:15:50.410] B-0013 entra en la despensa para depositar
+[11:15:50.410] CocineroB-0013 ha colocado los productos en la despensa
+[11:15:50.410] B-0013 sale de la despensa
+[11:15:50.410] B-0013 vuelve a la sala de descanso
+[11:15:50.479] B-0016 sale de la cocina
+[11:15:50.479] B-0016 se dirige a la despensa
+[11:15:50.505] C-0019 se dirige a la cafeteria
+[11:15:50.531] V-0016 ha colocado los productos en el mostrador
+[11:15:50.531] V-0016 sale del mostrador
+[11:15:50.531] V-0016 vuelve a la sala de descanso
+[11:15:50.544] C-0015 entra en la zona previa
+[11:15:50.562] V-0002 descansa en la sala
+[11:15:50.783] V-0017 ha colocado los productos en el mostrador
+[11:15:50.783] V-0017 sale del mostrador
+[11:15:50.783] V-0017 vuelve a la sala de descanso
+[11:15:50.799] V-0008 entra en la despensa
+[11:15:50.799] V-0008 retira 5 cafes
+[11:15:50.799] V-0008 retira 6 rosquillas
+[11:15:50.843] V-0001 ha colocado los productos en el mostrador
+[11:15:50.843] V-0001 sale del mostrador
+[11:15:50.843] V-0001 vuelve a la sala de descanso
+[11:15:50.953] C-0013 sale de la zona previa
+[11:15:50.953] C-0013 entra en el mostrador
+[11:15:50.953] C-0013 retira 2 cafes
+[11:15:50.953] B-0005 se dirige a la cocina
+[11:15:50.954] C-0013 retira 4 rosquillas
+[11:15:50.964] C-0010 paga y sale de la caja
+[11:15:50.965] C-0010 entra al area de consumo
+[11:15:50.965] B-0015 sale de la cocina
+[11:15:50.965] B-0015 se dirige a la despensa
+[11:15:50.985] V-0015 ha colocado los productos en el mostrador
+[11:15:50.985] V-0015 sale del mostrador
+[11:15:50.986] V-0015 vuelve a la sala de descanso
+[11:15:51.014] B-0012 descansa en la sala
+[11:15:51.028] B-0001 entra en la cocina
+[11:15:51.028] B-0001 produce 2 cafes y 5 rosquillas
+[11:15:51.101] B-0020 se dirige a la cocina
+[11:15:51.110] C-0022 esta en el parque
+[11:15:51.130] V-0007 entra en la despensa
+[11:15:51.130] V-0007 retira 5 cafes
+[11:15:51.130] V-0007 retira 9 rosquillas
+[11:15:51.132] B-0003 entra en la cocina
+[11:15:51.132] B-0003 produce 3 cafes y 4 rosquillas
+[11:15:51.156] V-0005 se dirige a la despensa
+[11:15:51.458] C-0011 paga y sale de la caja
+[11:15:51.458] C-0011 entra al area de consumo
+[11:15:51.668] B-0014 entra en la despensa para depositar
+[11:15:51.668] CocineroB-0014 ha colocado los productos en la despensa
+[11:15:51.668] B-0014 sale de la despensa
+[11:15:51.668] B-0014 vuelve a la sala de descanso
+[11:15:51.718] V-0023 se dirige a la despensa
+[11:15:51.836] B-0008 se dirige a la cocina
+[11:15:51.889] B-0027 descansa en la sala
+[11:15:51.911] V-0028 descansa en la sala
+[11:15:51.967] V-0003 entra en el mostrador
+[11:15:52.062] V-0006 entra en el mostrador
+[11:15:52.063] B-0021 se dirige a la cocina
+[11:15:52.238] C-0015 sale de la zona previa
+[11:15:52.238] C-0015 entra en el mostrador
+[11:15:52.238] C-0015 retira 3 cafes
+[11:15:52.238] C-0015 retira 4 rosquillas
+[11:15:52.240] V-0018 entra en el mostrador
+[11:15:52.318] B-0007 se dirige a la cocina
+[11:15:52.319] V-0022 se dirige a la despensa
+[11:15:52.344] C-0012 ha seleccionado 1 cafes y 0 rosquillas
+[11:15:52.344] C-0012 sale del mostrador
+[11:15:52.344] C-0012 accede a la caja
+[11:15:52.405] B-0022 se dirige a la cocina
+[11:15:52.440] V-0020 entra en la despensa
+[11:15:52.440] V-0020 retira 6 cafes
+[11:15:52.441] V-0020 retira 5 rosquillas
+[11:15:52.445] V-0012 descansa en la sala
+[11:15:52.458] V-0009 se dirige a la despensa
+[11:15:52.477] C-0014 entra en la zona previa
+[11:15:52.763] C-0006 termina y se va
+[11:15:52.818] V-0004 entra en el mostrador
+[11:15:52.882] B-0016 entra en la despensa para depositar
+[11:15:52.882] CocineroB-0016 ha colocado los productos en la despensa
+[11:15:52.882] B-0016 sale de la despensa
+[11:15:52.882] B-0016 vuelve a la sala de descanso
+[11:15:52.887] V-0023 entra en la despensa
+[11:15:52.887] V-0023 retira 4 cafes
+[11:15:52.887] V-0023 retira 10 rosquillas
+[11:15:52.900] B-0005 entra en la cocina
+[11:15:52.900] B-0005 produce 2 cafes y 8 rosquillas
+[11:15:52.915] B-0028 descansa en la sala
+[11:15:52.951] V-0024 se dirige a la despensa
+[11:15:52.970] V-0021 ha seleccionado 5 cafes y 5 rosquillas
+[11:15:52.970] V-0021 sale de la despensa
+[11:15:52.970] V-0021 se dirige al mostrador
+[11:15:52.974] V-0016 descansa en la sala
+[11:15:53.038] V-0025 se dirige a la despensa
+[11:15:53.072] V-0007 ha seleccionado 5 cafes y 9 rosquillas
+[11:15:53.072] V-0007 sale de la despensa
+[11:15:53.072] V-0007 se dirige al mostrador
+[11:15:53.173] V-0029 descansa en la sala
+[11:15:53.184] V-0010 se dirige a la despensa
+[11:15:53.279] C-0008 paga y sale de la caja
+[11:15:53.279] C-0008 entra al area de consumo
+[11:15:53.291] V-0008 ha seleccionado 5 cafes y 6 rosquillas
+[11:15:53.291] V-0008 sale de la despensa
+[11:15:53.291] V-0008 se dirige al mostrador
+[11:15:53.308] V-0018 ha colocado los productos en el mostrador
+[11:15:53.308] V-0018 sale del mostrador
+[11:15:53.308] V-0018 vuelve a la sala de descanso
+[11:15:53.355] C-0023 esta en el parque
+[11:15:53.370] B-0020 entra en la cocina
+[11:15:53.370] B-0020 produce 4 cafes y 5 rosquillas
+[11:15:53.416] C-0013 ha seleccionado 2 cafes y 4 rosquillas
+[11:15:53.416] C-0013 sale del mostrador
+[11:15:53.416] C-0013 accede a la caja
+[11:15:53.424] C-0017 entra en la zona previa
+[11:15:53.474] V-0013 se dirige a la despensa
+[11:15:53.478] V-0017 descansa en la sala
+[11:15:53.478] V-0020 ha seleccionado 6 cafes y 5 rosquillas
+[11:15:53.478] V-0020 sale de la despensa
+[11:15:53.478] V-0020 se dirige al mostrador
+[11:15:53.527] V-0014 descansa en la sala
+[11:15:53.531] B-0007 entra en la cocina
+[11:15:53.531] B-0007 produce 2 cafes y 8 rosquillas
+[11:15:53.759] V-0030 descansa en la sala
+[11:15:53.774] V-0006 ha colocado los productos en el mostrador
+[11:15:53.774] V-0006 sale del mostrador
+[11:15:53.774] V-0006 vuelve a la sala de descanso
+[11:15:53.854] B-0010 se dirige a la cocina
+[11:15:53.854] B-0008 entra en la cocina
+[11:15:53.854] B-0008 produce 4 cafes y 8 rosquillas
+[11:15:53.915] C-0014 sale de la zona previa
+[11:15:53.915] C-0014 entra en el mostrador
+[11:15:53.915] C-0014 retira 2 cafes
+[11:15:53.915] C-0014 retira 1 rosquillas
+[11:15:53.933] V-0019 entra en el mostrador
+[11:15:53.987] V-0026 se dirige a la despensa
+[11:15:54.072] B-0021 entra en la cocina
+[11:15:54.072] B-0021 produce 4 cafes y 6 rosquillas
+[11:15:54.143] V-0005 entra en la despensa
+[11:15:54.143] V-0005 retira 3 cafes
+[11:15:54.145] V-0005 retira 7 rosquillas
+[11:15:54.149] V-0011 se dirige a la despensa
+[11:15:54.211] B-0017 sale de la cocina
+[11:15:54.211] B-0017 se dirige a la despensa
+[11:15:54.233] V-0001 descansa en la sala
+[11:15:54.243] B-0011 se dirige a la cocina
+[11:15:54.253] B-0029 descansa en la sala
+[11:15:54.295] B-0022 entra en la cocina
+[11:15:54.295] B-0022 produce 2 cafes y 8 rosquillas
+[11:15:54.304] V-0009 entra en la despensa
+[11:15:54.304] V-0009 retira 5 cafes
+[11:15:54.304] V-0009 retira 5 rosquillas
+[11:15:54.338] C-0016 entra en la zona previa
+[11:15:54.362] V-0023 ha seleccionado 4 cafes y 10 rosquillas
+[11:15:54.362] V-0023 sale de la despensa
+[11:15:54.362] V-0023 se dirige al mostrador
+[11:15:54.436] V-0024 entra en la despensa
+[11:15:54.436] V-0024 retira 6 cafes
+[11:15:54.436] V-0024 retira 9 rosquillas
+[11:15:54.506] B-0013 descansa en la sala
+[11:15:54.545] B-0025 se dirige a la cocina
+[11:15:54.592] V-0003 ha colocado los productos en el mostrador
+[11:15:54.592] V-0003 sale del mostrador
+[11:15:54.592] V-0003 vuelve a la sala de descanso
+[11:15:54.649] V-0004 ha colocado los productos en el mostrador
+[11:15:54.649] V-0004 sale del mostrador
+[11:15:54.649] V-0004 vuelve a la sala de descanso
+[11:15:54.683] B-0004 sale de la cocina
+[11:15:54.683] B-0004 se dirige a la despensa
+[11:15:54.703] V-0013 entra en la despensa
+[11:15:54.703] B-0015 entra en la despensa para depositar
+[11:15:54.703] V-0013 retira 4 cafes
+[11:15:54.703] V-0013 retira 6 rosquillas
+[11:15:54.703] CocineroB-0015 ha colocado los productos en la despensa
+[11:15:54.704] B-0015 sale de la despensa
+[11:15:54.704] B-0015 vuelve a la sala de descanso
+[11:15:54.732] V-0027 se dirige a la despensa
+[11:15:54.764] V-0025 entra en la despensa
+[11:15:54.764] V-0025 retira 3 cafes
+[11:15:54.764] V-0025 retira 10 rosquillas
+[11:15:54.945] V-0015 descansa en la sala
+[11:15:55.044] V-0022 entra en la despensa
+[11:15:55.044] V-0022 retira 3 cafes
+[11:15:55.044] V-0022 retira 10 rosquillas
+[11:15:55.072] C-0020 se dirige a la cafeteria
+[11:15:55.100] B-0023 se dirige a la cocina
+[11:15:55.188] V-0011 entra en la despensa
+[11:15:55.188] V-0011 retira 6 cafes
+[11:15:55.188] V-0011 retira 7 rosquillas
+[11:15:55.314] B-0011 entra en la cocina
+[11:15:55.314] B-0011 produce 5 cafes y 4 rosquillas
+[11:15:55.340] B-0006 se dirige a la cocina
+[11:15:55.352] B-0014 descansa en la sala
+[11:15:55.388] C-0015 ha seleccionado 3 cafes y 4 rosquillas
+[11:15:55.388] C-0015 sale del mostrador
+[11:15:55.388] C-0015 accede a la caja
+[11:15:55.416] V-0018 descansa en la sala
+[11:15:55.486] B-0030 descansa en la sala
+[11:15:55.548] B-0024 se dirige a la cocina
+[11:15:55.564] B-0009 se dirige a la cocina
+[11:15:55.573] C-0017 sale de la zona previa
+[11:15:55.573] C-0017 entra en el mostrador
+[11:15:55.573] C-0017 retira 1 cafes
+[11:15:55.573] C-0017 retira 3 rosquillas
+[11:15:55.611] C-0012 paga y sale de la caja
+[11:15:55.611] C-0012 entra al area de consumo
+[11:15:55.622] V-0010 entra en la despensa
+[11:15:55.622] V-0010 retira 4 cafes
+[11:15:55.622] V-0010 retira 9 rosquillas
+[11:15:55.692] C-0018 entra en la zona previa
+[11:15:55.712] C-0021 se dirige a la cafeteria
+[11:15:55.754] C-0024 esta en el parque
+[11:15:55.786] V-0013 ha seleccionado 4 cafes y 6 rosquillas
+[11:15:55.786] V-0013 sale de la despensa
+[11:15:55.786] V-0013 se dirige al mostrador
+[11:15:55.840] V-0031 descansa en la sala
+[11:15:55.845] V-0005 ha seleccionado 3 cafes y 7 rosquillas
+[11:15:55.845] V-0005 sale de la despensa
+[11:15:55.845] V-0005 se dirige al mostrador
+[11:15:55.882] V-0027 entra en la despensa
+[11:15:55.882] V-0027 retira 5 cafes
+[11:15:55.882] V-0027 retira 6 rosquillas
+[11:15:56.139] V-0025 ha seleccionado 3 cafes y 10 rosquillas
+[11:15:56.139] V-0025 sale de la despensa
+[11:15:56.139] V-0025 se dirige al mostrador
+[11:15:56.140] C-0016 sale de la zona previa
+[11:15:56.140] C-0016 entra en el mostrador
+[11:15:56.140] C-0016 retira 2 cafes
+[11:15:56.140] C-0016 retira 1 rosquillas
+[11:15:56.245] V-0020 entra en el mostrador
+[11:15:56.287] C-0014 ha seleccionado 2 cafes y 1 rosquillas
+[11:15:56.287] C-0014 sale del mostrador
+[11:15:56.287] C-0014 accede a la caja
+[11:15:56.418] V-0026 entra en la despensa
+[11:15:56.418] V-0026 retira 5 cafes
+[11:15:56.418] V-0026 retira 8 rosquillas
+[11:15:56.590] B-0010 entra en la cocina
+[11:15:56.590] B-0010 produce 2 cafes y 6 rosquillas
+[11:15:56.604] V-0009 ha seleccionado 5 cafes y 5 rosquillas
+[11:15:56.604] V-0009 sale de la despensa
+[11:15:56.604] V-0009 se dirige al mostrador
+[11:15:56.615] B-0031 descansa en la sala
+[11:15:56.633] V-0019 ha colocado los productos en el mostrador
+[11:15:56.633] V-0019 sale del mostrador
+[11:15:56.633] V-0019 vuelve a la sala de descanso
+[11:15:56.649] B-0018 sale de la cocina
+[11:15:56.649] B-0018 se dirige a la despensa
+[11:15:56.715] V-0024 ha seleccionado 6 cafes y 9 rosquillas
+[11:15:56.715] V-0024 sale de la despensa
+[11:15:56.715] V-0024 se dirige al mostrador
+[11:15:56.731] V-0022 ha seleccionado 3 cafes y 10 rosquillas
+[11:15:56.731] V-0022 sale de la despensa
+[11:15:56.731] V-0022 se dirige al mostrador
+[11:15:56.837] V-0010 ha seleccionado 4 cafes y 9 rosquillas
+[11:15:56.837] V-0010 sale de la despensa
+[11:15:56.837] V-0010 se dirige al mostrador
+[11:15:56.854] V-0004 descansa en la sala
+[11:15:57.011] B-0001 sale de la cocina
+[11:15:57.011] B-0001 se dirige a la despensa
+[11:15:57.044] B-0024 entra en la cocina
+[11:15:57.044] B-0024 produce 4 cafes y 4 rosquillas
+[11:15:57.129] B-0016 descansa en la sala
+[11:15:57.193] B-0017 entra en la despensa para depositar
+[11:15:57.193] CocineroB-0017 ha colocado los productos en la despensa
+[11:15:57.193] B-0017 sale de la despensa
+[11:15:57.193] B-0017 vuelve a la sala de descanso
+[11:15:57.205] B-0002 sale de la cocina
+[11:15:57.205] B-0002 se dirige a la despensa
+[11:15:57.292] V-0032 descansa en la sala
+[11:15:57.293] C-0005 termina y se va
+[11:15:57.334] V-0008 entra en el mostrador
+[11:15:57.348] C-0018 sale de la zona previa
+[11:15:57.348] C-0018 entra en el mostrador
+[11:15:57.348] C-0018 retira 1 cafes
+[11:15:57.349] C-0018 retira 1 rosquillas
+[11:15:57.381] V-0011 ha seleccionado 6 cafes y 7 rosquillas
+[11:15:57.381] V-0011 sale de la despensa
+[11:15:57.381] V-0011 se dirige al mostrador
+[11:15:57.408] C-0013 paga y sale de la caja
+[11:15:57.408] C-0013 entra al area de consumo
+[11:15:57.411] B-0009 entra en la cocina
+[11:15:57.411] B-0009 produce 3 cafes y 7 rosquillas
+[11:15:57.478] V-0012 se dirige a la despensa
+[11:15:57.534] V-0026 ha seleccionado 5 cafes y 8 rosquillas
+[11:15:57.534] V-0026 sale de la despensa
+[11:15:57.534] V-0026 se dirige al mostrador
+[11:15:57.544] B-0025 entra en la cocina
+[11:15:57.544] B-0025 produce 5 cafes y 8 rosquillas
+[11:15:57.673] V-0021 entra en el mostrador
+[11:15:57.677] V-0007 entra en el mostrador
+[11:15:57.691] C-0019 entra en la zona previa
+[11:15:57.759] B-0023 entra en la cocina
+[11:15:57.759] B-0023 produce 5 cafes y 5 rosquillas
+[11:15:57.812] V-0013 entra en el mostrador
+[11:15:57.925] B-0026 se dirige a la cocina
+[11:15:58.060] V-0027 ha seleccionado 5 cafes y 6 rosquillas
+[11:15:58.060] V-0027 sale de la despensa
+[11:15:58.060] V-0027 se dirige al mostrador
+[11:15:58.074] V-0023 entra en el mostrador
+[11:15:58.151] B-0006 entra en la cocina
+[11:15:58.151] B-0006 produce 5 cafes y 4 rosquillas
+[11:15:58.172] B-0012 se dirige a la cocina
+[11:15:58.190] B-0004 entra en la despensa para depositar
+[11:15:58.190] CocineroB-0004 ha colocado los productos en la despensa
+[11:15:58.190] B-0004 sale de la despensa
+[11:15:58.190] B-0004 vuelve a la sala de descanso
+[11:15:58.215] B-0032 descansa en la sala
+[11:15:58.246] B-0015 descansa en la sala
+[11:15:58.555] B-0027 se dirige a la cocina
+[11:15:58.681] C-0025 esta en el parque
+[11:15:58.759] V-0006 descansa en la sala
+[11:15:58.768] V-0002 se dirige a la despensa
+[11:15:58.879] C-0014 paga y sale de la caja
+[11:15:58.879] C-0014 entra al area de consumo
+[11:15:58.898] V-0024 entra en el mostrador
+[11:15:58.922] V-0003 descansa en la sala
+[11:15:58.992] C-0023 se dirige a la cafeteria
+[11:15:59.061] V-0020 ha colocado los productos en el mostrador
+[11:15:59.061] V-0020 sale del mostrador
+[11:15:59.062] V-0020 vuelve a la sala de descanso
+[11:15:59.092] C-0020 entra en la zona previa
+[11:15:59.147] C-0019 sale de la zona previa
+[11:15:59.147] C-0019 entra en el mostrador
+[11:15:59.147] C-0019 retira 2 cafes
+[11:15:59.147] C-0019 retira 1 rosquillas
+[11:15:59.235] B-0001 entra en la despensa para depositar
+[11:15:59.235] CocineroB-0001 ha colocado los productos en la despensa
+[11:15:59.235] B-0001 sale de la despensa
+[11:15:59.235] B-0001 vuelve a la sala de descanso
+[11:15:59.304] V-0033 descansa en la sala
+[11:15:59.312] V-0007 ha colocado los productos en el mostrador
+[11:15:59.312] V-0007 sale del mostrador
+[11:15:59.312] V-0007 vuelve a la sala de descanso
+[11:15:59.324] B-0026 entra en la cocina
+[11:15:59.324] B-0026 produce 5 cafes y 6 rosquillas
+[11:15:59.476] V-0025 entra en el mostrador
+[11:15:59.483] B-0018 entra en la despensa para depositar
+[11:15:59.483] CocineroB-0018 ha colocado los productos en la despensa
+[11:15:59.483] B-0018 sale de la despensa
+[11:15:59.483] B-0018 vuelve a la sala de descanso
+[11:15:59.534] V-0013 ha colocado los productos en el mostrador
+[11:15:59.534] V-0013 sale del mostrador
+[11:15:59.534] V-0013 vuelve a la sala de descanso
+[11:15:59.550] C-0016 ha seleccionado 2 cafes y 1 rosquillas
+[11:15:59.550] C-0016 sale del mostrador
+[11:15:59.550] C-0016 accede a la caja
+[11:15:59.556] C-0017 ha seleccionado 1 cafes y 3 rosquillas
+[11:15:59.556] C-0017 sale del mostrador
+[11:15:59.556] C-0017 accede a la caja
+[11:15:59.569] B-0021 sale de la cocina
+[11:15:59.569] B-0021 se dirige a la despensa
+[11:15:59.695] B-0019 sale de la cocina
+[11:15:59.695] B-0019 se dirige a la despensa
+[11:15:59.705] V-0026 entra en el mostrador
+[11:15:59.709] V-0014 se dirige a la despensa
+[11:15:59.716] V-0021 ha colocado los productos en el mostrador
+[11:15:59.716] V-0021 sale del mostrador
+[11:15:59.716] V-0021 vuelve a la sala de descanso
+[11:15:59.821] C-0018 ha seleccionado 1 cafes y 1 rosquillas
+[11:15:59.821] C-0018 sale del mostrador
+[11:15:59.821] C-0018 accede a la caja
+[11:15:59.899] V-0005 entra en el mostrador
+[11:15:59.922] V-0008 ha colocado los productos en el mostrador
+[11:15:59.922] V-0008 sale del mostrador
+[11:15:59.922] V-0008 vuelve a la sala de descanso
+[11:15:59.962] B-0020 sale de la cocina
+[11:15:59.962] B-0020 se dirige a la despensa
+[11:16:00.040] B-0002 entra en la despensa para depositar
+[11:16:00.040] CocineroB-0002 ha colocado los productos en la despensa
+[11:16:00.040] B-0002 sale de la despensa
+[11:16:00.040] B-0002 vuelve a la sala de descanso
+[11:16:00.129] B-0033 descansa en la sala
+[11:16:00.138] V-0001 se dirige a la despensa
+[11:16:00.178] C-0026 esta en el parque
+[11:16:00.223] V-0023 ha colocado los productos en el mostrador
+[11:16:00.223] V-0023 sale del mostrador
+[11:16:00.223] V-0023 vuelve a la sala de descanso
+[11:16:00.242] B-0003 sale de la cocina
+[11:16:00.242] B-0003 se dirige a la despensa
+[11:16:00.268] C-0015 paga y sale de la caja
+[11:16:00.268] C-0015 entra al area de consumo
+[11:16:00.285] V-0022 entra en el mostrador
+[11:16:00.288] V-0012 entra en la despensa
+[11:16:00.288] V-0012 retira 4 cafes
+[11:16:00.288] V-0012 retira 5 rosquillas
+[11:16:00.381] C-0020 sale de la zona previa
+[11:16:00.381] C-0020 entra en el mostrador
+[11:16:00.381] C-0020 retira 2 cafes
+[11:16:00.381] C-0020 retira 1 rosquillas
+[11:16:00.410] V-0024 ha colocado los productos en el mostrador
+[11:16:00.410] V-0024 sale del mostrador
+[11:16:00.410] V-0024 vuelve a la sala de descanso
+[11:16:00.516] V-0009 entra en el mostrador
+[11:16:00.622] V-0034 descansa en la sala
+[11:16:00.654] V-0019 descansa en la sala
+[11:16:00.672] C-0021 entra en la zona previa
+[11:16:00.729] C-0022 se dirige a la cafeteria
+[11:16:00.749] B-0012 entra en la cocina
+[11:16:00.749] B-0012 produce 4 cafes y 7 rosquillas
+[11:16:00.987] V-0010 entra en el mostrador
+[11:16:01.050] V-0015 se dirige a la despensa
+[11:16:01.068] V-0002 entra en la despensa
+[11:16:01.068] V-0002 retira 4 cafes
+[11:16:01.068] V-0002 retira 5 rosquillas
+[11:16:01.140] V-0025 ha colocado los productos en el mostrador
+[11:16:01.140] V-0025 sale del mostrador
+[11:16:01.140] V-0025 vuelve a la sala de descanso
+[11:16:01.176] C-0009 termina y se va
+[11:16:01.425] V-0022 ha colocado los productos en el mostrador
+[11:16:01.425] V-0022 sale del mostrador
+[11:16:01.425] V-0022 vuelve a la sala de descanso
+[11:16:01.427] B-0027 entra en la cocina
+[11:16:01.427] B-0027 produce 5 cafes y 8 rosquillas
+[11:16:01.515] V-0017 se dirige a la despensa
+[11:16:01.527] V-0016 se dirige a la despensa
+[11:16:01.530] B-0034 descansa en la sala
+[11:16:01.569] B-0005 sale de la cocina
+[11:16:01.569] B-0005 se dirige a la despensa
+[11:16:01.659] B-0001 descansa en la sala
+[11:16:01.677] B-0013 se dirige a la cocina
+[11:16:01.710] V-0020 descansa en la sala
+[11:16:01.710] V-0005 ha colocado los productos en el mostrador
+[11:16:01.711] V-0005 sale del mostrador
+[11:16:01.711] V-0005 vuelve a la sala de descanso
+[11:16:01.821] V-0028 se dirige a la despensa
+[11:16:01.906] C-0021 sale de la zona previa
+[11:16:01.906] C-0021 entra en el mostrador
+[11:16:01.906] C-0021 retira 3 cafes
+[11:16:01.906] C-0021 retira 2 rosquillas
+[11:16:01.931] V-0029 se dirige a la despensa
+[11:16:02.020] B-0004 descansa en la sala
+[11:16:02.022] V-0010 ha colocado los productos en el mostrador
+[11:16:02.022] V-0010 sale del mostrador
+[11:16:02.022] V-0010 vuelve a la sala de descanso
+[11:16:02.074] B-0017 descansa en la sala
+[11:16:02.163] V-0001 entra en la despensa
+[11:16:02.163] V-0001 retira 6 cafes
+[11:16:02.163] V-0001 retira 6 rosquillas
+[11:16:02.187] B-0007 sale de la cocina
+[11:16:02.187] B-0007 se dirige a la despensa
+[11:16:02.223] C-0019 ha seleccionado 2 cafes y 1 rosquillas
+[11:16:02.223] C-0019 sale del mostrador
+[11:16:02.223] C-0019 accede a la caja
+[11:16:02.236] B-0014 se dirige a la cocina
+[11:16:02.239] V-0014 entra en la despensa
+[11:16:02.239] V-0014 retira 3 cafes
+[11:16:02.239] V-0014 retira 5 rosquillas
+[11:16:02.250] V-0007 descansa en la sala
+[11:16:02.264] V-0018 se dirige a la despensa
+[11:16:02.290] V-0026 ha colocado los productos en el mostrador
+[11:16:02.290] V-0026 sale del mostrador
+[11:16:02.290] V-0026 vuelve a la sala de descanso
+[11:16:02.307] V-0027 entra en el mostrador
+[11:16:02.335] V-0023 descansa en la sala
+[11:16:02.376] V-0011 entra en el mostrador
+[11:16:02.381] B-0021 entra en la despensa para depositar
+[11:16:02.381] CocineroB-0021 ha colocado los productos en la despensa
+[11:16:02.381] B-0021 sale de la despensa
+[11:16:02.381] B-0021 vuelve a la sala de descanso
+[11:16:02.571] V-0012 ha seleccionado 4 cafes y 5 rosquillas
+[11:16:02.571] V-0012 sale de la despensa
+[11:16:02.571] V-0012 se dirige al mostrador
+[11:16:02.611] C-0027 esta en el parque
+[11:16:02.646] B-0028 se dirige a la cocina
+[11:16:02.662] B-0031 se dirige a la cocina
+[11:16:02.726] B-0008 sale de la cocina
+[11:16:02.726] B-0008 se dirige a la despensa
+[11:16:02.765] B-0020 entra en la despensa para depositar
+[11:16:02.765] CocineroB-0020 ha colocado los productos en la despensa
+[11:16:02.765] B-0020 sale de la despensa
+[11:16:02.766] B-0020 vuelve a la sala de descanso
+[11:16:02.766] V-0035 descansa en la sala
+[11:16:02.805] V-0024 descansa en la sala
+[11:16:02.809] B-0002 descansa en la sala
+[11:16:02.811] C-0018 paga y sale de la caja
+[11:16:02.811] C-0018 entra al area de consumo
+[11:16:02.975] C-0020 ha seleccionado 2 cafes y 1 rosquillas
+[11:16:02.975] C-0020 sale del mostrador
+[11:16:02.975] C-0020 accede a la caja
+[11:16:02.976] V-0017 entra en la despensa
+[11:16:02.976] V-0017 retira 5 cafes
+[11:16:02.976] V-0017 retira 5 rosquillas
+[11:16:02.978] C-0007 termina y se va
+[11:16:02.992] V-0008 descansa en la sala
+[11:16:03.050] B-0013 entra en la cocina
+[11:16:03.050] B-0013 produce 4 cafes y 7 rosquillas
+[11:16:03.055] V-0030 se dirige a la despensa
+[11:16:03.093] V-0016 entra en la despensa
+[11:16:03.093] V-0016 retira 5 cafes
+[11:16:03.093] V-0016 retira 9 rosquillas
+[11:16:03.186] C-0017 paga y sale de la caja
+[11:16:03.187] C-0017 entra al area de consumo
+[11:16:03.201] V-0015 entra en la despensa
+[11:16:03.201] V-0015 retira 4 cafes
+[11:16:03.201] V-0015 retira 6 rosquillas
+[11:16:03.240] V-0002 ha seleccionado 4 cafes y 5 rosquillas
+[11:16:03.240] V-0002 sale de la despensa
+[11:16:03.240] V-0002 se dirige al mostrador
+[11:16:03.320] B-0035 descansa en la sala
+[11:16:03.415] B-0025 sale de la cocina
+[11:16:03.415] B-0025 se dirige a la despensa
+[11:16:03.427] B-0015 se dirige a la cocina
+[11:16:03.475] V-0009 ha colocado los productos en el mostrador
+[11:16:03.475] V-0009 sale del mostrador
+[11:16:03.475] V-0009 vuelve a la sala de descanso
+[11:16:03.514] B-0003 entra en la despensa para depositar
+[11:16:03.514] CocineroB-0003 ha colocado los productos en la despensa
+[11:16:03.514] B-0003 sale de la despensa
+[11:16:03.514] B-0003 vuelve a la sala de descanso
+[11:16:03.536] V-0029 entra en la despensa
+[11:16:03.536] V-0029 retira 3 cafes
+[11:16:03.537] V-0029 retira 7 rosquillas
+[11:16:03.644] V-0028 entra en la despensa
+[11:16:03.644] V-0028 retira 3 cafes
+[11:16:03.644] V-0028 retira 5 rosquillas
+[11:16:03.726] V-0021 descansa en la sala
+[11:16:03.740] C-0028 esta en el parque
+[11:16:03.756] C-0024 se dirige a la cafeteria
+[11:16:03.821] V-0014 ha seleccionado 3 cafes y 5 rosquillas
+[11:16:03.821] V-0014 sale de la despensa
+[11:16:03.821] V-0014 se dirige al mostrador
+[11:16:03.882] B-0028 entra en la cocina
+[11:16:03.882] B-0028 produce 5 cafes y 6 rosquillas
+[11:16:03.895] V-0031 se dirige a la despensa
+[11:16:03.931] B-0029 se dirige a la cocina
+[11:16:04.043] V-0013 descansa en la sala
+[11:16:04.099] B-0022 sale de la cocina
+[11:16:04.099] B-0022 se dirige a la despensa
+[11:16:04.132] B-0010 sale de la cocina
+[11:16:04.132] B-0010 se dirige a la despensa
+[11:16:04.156] C-0021 ha seleccionado 3 cafes y 2 rosquillas
+[11:16:04.156] C-0021 sale del mostrador
+[11:16:04.156] C-0021 accede a la caja
+[11:16:04.194] B-0007 entra en la despensa para depositar
+[11:16:04.194] CocineroB-0007 ha colocado los productos en la despensa
+[11:16:04.194] B-0007 sale de la despensa
+[11:16:04.194] B-0007 vuelve a la sala de descanso
+[11:16:04.239] B-0014 entra en la cocina
+[11:16:04.239] B-0014 produce 4 cafes y 4 rosquillas
+[11:16:04.273] V-0015 ha seleccionado 4 cafes y 6 rosquillas
+[11:16:04.273] V-0015 sale de la despensa
+[11:16:04.273] V-0015 se dirige al mostrador
+[11:16:04.308] B-0019 entra en la despensa para depositar
+[11:16:04.308] CocineroB-0019 ha colocado los productos en la despensa
+[11:16:04.308] B-0019 sale de la despensa
+[11:16:04.308] B-0019 vuelve a la sala de descanso
+[11:16:04.318] B-0018 descansa en la sala
+[11:16:04.387] V-0017 ha seleccionado 5 cafes y 5 rosquillas
+[11:16:04.387] V-0017 sale de la despensa
+[11:16:04.387] V-0017 se dirige al mostrador
+[11:16:04.405] C-0016 paga y sale de la caja
+[11:16:04.405] C-0016 entra al area de consumo
+[11:16:04.450] B-0031 entra en la cocina
+[11:16:04.450] B-0031 produce 3 cafes y 8 rosquillas
+[11:16:04.452] C-0022 entra en la zona previa
+[11:16:04.513] B-0023 sale de la cocina
+[11:16:04.513] B-0023 se dirige a la despensa
+[11:16:04.543] V-0029 ha seleccionado 3 cafes y 7 rosquillas
+[11:16:04.543] V-0029 sale de la despensa
+[11:16:04.543] V-0029 se dirige al mostrador
+[11:16:04.583] C-0011 termina y se va
+[11:16:04.659] C-0008 termina y se va
+[11:16:04.887] V-0016 ha seleccionado 5 cafes y 9 rosquillas
+[11:16:04.887] V-0016 sale de la despensa
+[11:16:04.887] V-0016 se dirige al mostrador
+[11:16:04.897] V-0001 ha seleccionado 6 cafes y 6 rosquillas
+[11:16:04.897] V-0001 sale de la despensa
+[11:16:04.897] V-0001 se dirige al mostrador
+[11:16:04.910] V-0018 entra en la despensa
+[11:16:04.910] V-0018 retira 6 cafes
+[11:16:04.911] V-0018 retira 9 rosquillas
+[11:16:04.913] B-0016 se dirige a la cocina
+[11:16:04.927] V-0036 descansa en la sala
+[11:16:04.952] B-0029 entra en la cocina
+[11:16:04.952] B-0029 produce 5 cafes y 4 rosquillas
+[11:16:05.063] C-0023 entra en la zona previa
+[11:16:05.097] V-0032 se dirige a la despensa
+[11:16:05.102] V-0005 descansa en la sala
+[11:16:05.112] B-0008 entra en la despensa para depositar
+[11:16:05.112] CocineroB-0008 ha colocado los productos en la despensa
+[11:16:05.112] B-0008 sale de la despensa
+[11:16:05.112] B-0008 vuelve a la sala de descanso
+[11:16:05.145] V-0011 ha colocado los productos en el mostrador
+[11:16:05.145] V-0011 sale del mostrador
+[11:16:05.145] V-0011 vuelve a la sala de descanso
+[11:16:05.159] B-0036 descansa en la sala
+[11:16:05.192] B-0015 entra en la cocina
+[11:16:05.192] B-0015 produce 3 cafes y 5 rosquillas
+[11:16:05.216] B-0030 se dirige a la cocina
+[11:16:05.229] B-0011 sale de la cocina
+[11:16:05.229] B-0011 se dirige a la despensa
+[11:16:05.233] V-0027 ha colocado los productos en el mostrador
+[11:16:05.233] V-0027 sale del mostrador
+[11:16:05.233] V-0027 vuelve a la sala de descanso
+[11:16:05.372] V-0022 descansa en la sala
+[11:16:05.439] C-0010 termina y se va
+[11:16:05.533] V-0030 entra en la despensa
+[11:16:05.533] V-0030 retira 5 cafes
+[11:16:05.533] V-0030 retira 6 rosquillas
+[11:16:05.594] V-0031 entra en la despensa
+[11:16:05.594] V-0031 retira 3 cafes
+[11:16:05.594] V-0031 retira 7 rosquillas
+[11:16:05.639] B-0021 descansa en la sala
+[11:16:05.676] V-0028 ha seleccionado 3 cafes y 5 rosquillas
+[11:16:05.676] V-0028 sale de la despensa
+[11:16:05.676] V-0028 se dirige al mostrador
+[11:16:05.677] B-0009 sale de la cocina
+[11:16:05.677] B-0009 se dirige a la despensa
+[11:16:05.873] C-0025 se dirige a la cafeteria
+[11:16:05.979] V-0002 entra en el mostrador
+[11:16:05.990] C-0019 paga y sale de la caja
+[11:16:05.990] C-0019 entra al area de consumo
+[11:16:05.993] V-0009 descansa en la sala
+[11:16:06.085] V-0014 entra en el mostrador
+[11:16:06.090] V-0025 descansa en la sala
+[11:16:06.181] B-0003 descansa en la sala
+[11:16:06.202] V-0004 se dirige a la despensa
+[11:16:06.258] V-0033 se dirige a la despensa
+[11:16:06.365] B-0005 entra en la despensa para depositar
+[11:16:06.365] CocineroB-0005 ha colocado los productos en la despensa
+[11:16:06.365] B-0005 sale de la despensa
+[11:16:06.365] B-0005 vuelve a la sala de descanso
+[11:16:06.366] B-0007 descansa en la sala
+[11:16:06.420] V-0026 descansa en la sala
+[11:16:06.481] B-0024 sale de la cocina
+[11:16:06.481] B-0024 se dirige a la despensa
+[11:16:06.652] C-0029 esta en el parque
+[11:16:06.653] B-0032 se dirige a la cocina
+[11:16:06.691] V-0010 descansa en la sala
+[11:16:06.738] V-0018 ha seleccionado 6 cafes y 9 rosquillas
+[11:16:06.738] V-0018 sale de la despensa
+[11:16:06.738] V-0018 se dirige al mostrador
+[11:16:06.837] B-0025 entra en la despensa para depositar
+[11:16:06.837] CocineroB-0025 ha colocado los productos en la despensa
+[11:16:06.837] B-0025 sale de la despensa
+[11:16:06.838] B-0025 vuelve a la sala de descanso
+[11:16:06.843] C-0023 sale de la zona previa
+[11:16:06.843] C-0023 entra en el mostrador
+[11:16:06.843] C-0023 retira 1 cafes
+[11:16:06.843] C-0023 retira 0 rosquillas
+[11:16:06.982] B-0037 descansa en la sala
+[11:16:07.041] V-0002 ha colocado los productos en el mostrador
+[11:16:07.041] V-0002 sale del mostrador
+[11:16:07.041] V-0002 vuelve a la sala de descanso
+[11:16:07.141] V-0037 descansa en la sala
+[11:16:07.147] C-0022 sale de la zona previa
+[11:16:07.147] C-0022 entra en el mostrador
+[11:16:07.147] C-0022 retira 3 cafes
+[11:16:07.148] C-0022 retira 2 rosquillas
+[11:16:07.188] B-0023 entra en la despensa para depositar
+[11:16:07.188] CocineroB-0023 ha colocado los productos en la despensa
+[11:16:07.188] B-0023 sale de la despensa
+[11:16:07.189] B-0023 vuelve a la sala de descanso
+[11:16:07.337] V-0014 ha colocado los productos en el mostrador
+[11:16:07.337] V-0014 sale del mostrador
+[11:16:07.337] V-0014 vuelve a la sala de descanso
+[11:16:07.376] B-0016 entra en la cocina
+[11:16:07.376] B-0016 produce 3 cafes y 4 rosquillas
+[11:16:07.468] B-0006 sale de la cocina
+[11:16:07.468] B-0006 se dirige a la despensa
+[11:16:07.522] V-0012 entra en el mostrador
+[11:16:07.564] V-0032 entra en la despensa
+[11:16:07.564] V-0032 retira 6 cafes
+[11:16:07.564] V-0032 retira 8 rosquillas
+[11:16:07.637] V-0031 ha seleccionado 3 cafes y 7 rosquillas
+[11:16:07.637] B-0030 entra en la cocina
+[11:16:07.637] V-0031 sale de la despensa
+[11:16:07.638] B-0030 produce 2 cafes y 7 rosquillas
+[11:16:07.638] V-0031 se dirige al mostrador
+[11:16:07.649] B-0017 se dirige a la cocina
+[11:16:07.665] V-0015 entra en el mostrador
+[11:16:07.671] C-0020 paga y sale de la caja
+[11:16:07.671] C-0020 entra al area de consumo
+[11:16:07.678] B-0020 descansa en la sala
+[11:16:07.709] V-0006 se dirige a la despensa
+[11:16:07.789] V-0001 entra en el mostrador
+[11:16:07.811] V-0004 entra en la despensa
+[11:16:07.811] V-0004 retira 5 cafes
+[11:16:07.811] V-0004 retira 7 rosquillas
+[11:16:07.847] B-0034 se dirige a la cocina
+[11:16:07.917] V-0017 entra en el mostrador
+[11:16:07.933] V-0038 descansa en la sala
+[11:16:07.990] V-0028 entra en el mostrador
+[11:16:08.037] B-0011 entra en la despensa para depositar
+[11:16:08.037] CocineroB-0011 ha colocado los productos en la despensa
+[11:16:08.037] B-0011 sale de la despensa
+[11:16:08.037] B-0011 vuelve a la sala de descanso
+[11:16:08.087] C-0012 termina y se va
+[11:16:08.102] V-0033 entra en la despensa
+[11:16:08.102] V-0033 retira 5 cafes
+[11:16:08.102] V-0033 retira 7 rosquillas
+[11:16:08.203] V-0011 descansa en la sala
+[11:16:08.205] B-0008 descansa en la sala
+[11:16:08.222] V-0030 ha seleccionado 5 cafes y 6 rosquillas
+[11:16:08.222] V-0030 sale de la despensa
+[11:16:08.222] V-0030 se dirige al mostrador
+[11:16:08.237] V-0003 se dirige a la despensa
+[11:16:08.256] B-0032 entra en la cocina
+[11:16:08.256] B-0032 produce 2 cafes y 4 rosquillas
+[11:16:08.261] B-0022 entra en la despensa para depositar
+[11:16:08.261] CocineroB-0022 ha colocado los productos en la despensa
+[11:16:08.261] B-0022 sale de la despensa
+[11:16:08.261] B-0022 vuelve a la sala de descanso
+[11:16:08.418] B-0010 entra en la despensa para depositar
+[11:16:08.418] CocineroB-0010 ha colocado los productos en la despensa
+[11:16:08.418] B-0010 sale de la despensa
+[11:16:08.418] B-0010 vuelve a la sala de descanso
+[11:16:08.474] V-0029 entra en el mostrador
+[11:16:08.597] C-0021 paga y sale de la caja
+[11:16:08.597] C-0021 entra al area de consumo
+[11:16:08.641] V-0019 se dirige a la despensa
+[11:16:08.679] V-0012 ha colocado los productos en el mostrador
+[11:16:08.679] V-0012 sale del mostrador
+[11:16:08.679] V-0012 vuelve a la sala de descanso
+[11:16:08.732] B-0033 se dirige a la cocina
+[11:16:08.758] V-0035 se dirige a la despensa
+[11:16:08.774] V-0021 se dirige a la despensa
+[11:16:08.842] V-0006 entra en la despensa
+[11:16:08.842] V-0006 retira 6 cafes
+[11:16:08.843] V-0006 retira 6 rosquillas
+[11:16:08.848] B-0026 sale de la cocina
+[11:16:08.848] B-0026 se dirige a la despensa
+[11:16:08.867] V-0018 entra en el mostrador
+[11:16:08.932] V-0024 se dirige a la despensa
+[11:16:08.951] V-0015 ha colocado los productos en el mostrador
+[11:16:08.951] V-0015 sale del mostrador
+[11:16:08.951] V-0015 vuelve a la sala de descanso
+[11:16:08.977] B-0038 descansa en la sala
+[11:16:09.004] C-0023 ha seleccionado 1 cafes y 0 rosquillas
+[11:16:09.004] C-0023 sale del mostrador
+[11:16:09.004] C-0023 accede a la caja
+[11:16:09.063] B-0019 descansa en la sala
+[11:16:09.213] V-0016 entra en el mostrador
+[11:16:09.290] V-0039 descansa en la sala
+[11:16:09.339] V-0004 ha seleccionado 5 cafes y 7 rosquillas
+[11:16:09.339] V-0004 sale de la despensa
+[11:16:09.339] V-0004 se dirige al mostrador
+[11:16:09.367] C-0026 se dirige a la cafeteria
+[11:16:09.437] V-0032 ha seleccionado 6 cafes y 8 rosquillas
+[11:16:09.437] V-0032 sale de la despensa
+[11:16:09.437] V-0032 se dirige al mostrador
+[11:16:09.511] B-0017 entra en la cocina
+[11:16:09.511] B-0017 produce 4 cafes y 4 rosquillas
+[11:16:09.602] V-0007 se dirige a la despensa
+[11:16:09.609] C-0030 esta en el parque
+[11:16:09.767] B-0012 sale de la cocina
+[11:16:09.767] B-0012 se dirige a la despensa
+[11:16:09.794] V-0003 entra en la despensa
+[11:16:09.794] V-0003 retira 3 cafes
+[11:16:09.794] V-0003 retira 8 rosquillas
+[11:16:09.855] V-0019 entra en la despensa
+[11:16:09.855] V-0019 retira 4 cafes
+[11:16:09.855] V-0019 retira 8 rosquillas
+[11:16:09.871] V-0002 descansa en la sala
+[11:16:09.876] B-0004 se dirige a la cocina
+[11:16:09.890] B-0034 entra en la cocina
+[11:16:09.890] B-0034 produce 4 cafes y 5 rosquillas
+[11:16:10.025] C-0028 se dirige a la cafeteria
+[11:16:10.027] C-0022 ha seleccionado 3 cafes y 2 rosquillas
+[11:16:10.027] C-0022 sale del mostrador
+[11:16:10.027] C-0022 accede a la caja
+[11:16:10.028] V-0034 se dirige a la despensa
+[11:16:10.055] V-0040 descansa en la sala
+[11:16:10.095] V-0020 se dirige a la despensa
+[11:16:10.097] V-0017 ha colocado los productos en el mostrador
+[11:16:10.097] V-0017 sale del mostrador
+[11:16:10.097] V-0017 vuelve a la sala de descanso
+[11:16:10.105] V-0027 descansa en la sala
+[11:16:10.127] C-0014 termina y se va
+[11:16:10.146] V-0035 entra en la despensa
+[11:16:10.146] V-0035 retira 4 cafes
+[11:16:10.146] V-0035 retira 10 rosquillas
+[11:16:10.219] V-0018 ha colocado los productos en el mostrador
+[11:16:10.219] V-0018 sale del mostrador
+[11:16:10.219] V-0018 vuelve a la sala de descanso
+[11:16:10.244] V-0028 ha colocado los productos en el mostrador
+[11:16:10.244] V-0028 sale del mostrador
+[11:16:10.244] V-0028 vuelve a la sala de descanso
+[11:16:10.263] B-0009 entra en la despensa para depositar
+[11:16:10.263] V-0014 descansa en la sala
+[11:16:10.263] CocineroB-0009 ha colocado los productos en la despensa
+[11:16:10.264] B-0009 sale de la despensa
+[11:16:10.264] B-0009 vuelve a la sala de descanso
+[11:16:10.271] B-0024 entra en la despensa para depositar
+[11:16:10.271] CocineroB-0024 ha colocado los productos en la despensa
+[11:16:10.271] B-0024 sale de la despensa
+[11:16:10.271] B-0024 vuelve a la sala de descanso
+[11:16:10.336] B-0022 descansa en la sala
+[11:16:10.358] B-0035 se dirige a la cocina
+[11:16:10.382] B-0011 descansa en la sala
+[11:16:10.482] B-0001 se dirige a la cocina
+[11:16:10.504] V-0029 ha colocado los productos en el mostrador
+[11:16:10.504] V-0029 sale del mostrador
+[11:16:10.504] V-0029 vuelve a la sala de descanso
+[11:16:10.580] V-0001 ha colocado los productos en el mostrador
+[11:16:10.580] V-0001 sale del mostrador
+[11:16:10.580] V-0001 vuelve a la sala de descanso
+[11:16:10.643] C-0031 esta en el parque
+[11:16:10.709] V-0031 entra en el mostrador
+[11:16:10.780] B-0015 sale de la cocina
+[11:16:10.780] B-0015 se dirige a la despensa
+[11:16:10.807] V-0016 ha colocado los productos en el mostrador
+[11:16:10.807] V-0016 sale del mostrador
+[11:16:10.807] V-0016 vuelve a la sala de descanso
+[11:16:10.813] V-0021 entra en la despensa
+[11:16:10.813] V-0021 retira 5 cafes
+[11:16:10.813] V-0021 retira 7 rosquillas
+[11:16:10.817] B-0036 se dirige a la cocina
+[11:16:10.892] V-0003 ha seleccionado 3 cafes y 8 rosquillas
+[11:16:10.892] V-0003 sale de la despensa
+[11:16:10.892] V-0003 se dirige al mostrador
+[11:16:10.910] B-0039 descansa en la sala
+[11:16:10.913] V-0033 ha seleccionado 5 cafes y 7 rosquillas
+[11:16:10.913] V-0033 sale de la despensa
+[11:16:10.913] V-0033 se dirige al mostrador
+[11:16:11.058] B-0023 descansa en la sala
+[11:16:11.070] V-0023 se dirige a la despensa
+[11:16:11.082] B-0027 sale de la cocina
+[11:16:11.082] B-0027 se dirige a la despensa
+[11:16:11.142] B-0005 descansa en la sala
+[11:16:11.233] V-0041 descansa en la sala
+[11:16:11.249] B-0033 entra en la cocina
+[11:16:11.249] B-0033 produce 2 cafes y 4 rosquillas
+[11:16:11.331] V-0006 ha seleccionado 6 cafes y 6 rosquillas
+[11:16:11.331] V-0006 sale de la despensa
+[11:16:11.331] V-0006 se dirige al mostrador
+[11:16:11.346] V-0007 entra en la despensa
+[11:16:11.346] V-0007 retira 3 cafes
+[11:16:11.346] V-0007 retira 6 rosquillas
+[11:16:11.383] V-0035 ha seleccionado 4 cafes y 10 rosquillas
+[11:16:11.383] V-0035 sale de la despensa
+[11:16:11.383] V-0035 se dirige al mostrador
+[11:16:11.425] B-0002 se dirige a la cocina
+[11:16:11.429] C-0024 entra en la zona previa
+[11:16:11.501] V-0013 se dirige a la despensa
+[11:16:11.545] V-0034 entra en la despensa
+[11:16:11.545] V-0034 retira 6 cafes
+[11:16:11.545] V-0034 retira 6 rosquillas
+[11:16:11.610] B-0025 descansa en la sala
+[11:16:11.630] V-0020 entra en la despensa
+[11:16:11.630] V-0020 retira 4 cafes
+[11:16:11.630] V-0020 retira 10 rosquillas
+[11:16:11.701] B-0004 entra en la cocina
+[11:16:11.701] B-0004 produce 2 cafes y 7 rosquillas
+[11:16:11.779] V-0024 entra en la despensa
+[11:16:11.779] V-0024 retira 4 cafes
+[11:16:11.779] V-0024 retira 6 rosquillas
+[11:16:11.872] B-0018 se dirige a la cocina
+[11:16:11.909] V-0008 se dirige a la despensa
+[11:16:11.947] V-0021 ha seleccionado 5 cafes y 7 rosquillas
+[11:16:11.947] V-0021 sale de la despensa
+[11:16:11.947] V-0021 se dirige al mostrador
+[11:16:11.991] B-0006 entra en la despensa para depositar
+[11:16:11.991] CocineroB-0006 ha colocado los productos en la despensa
+[11:16:11.991] B-0006 sale de la despensa
+[11:16:11.991] B-0006 vuelve a la sala de descanso
+[11:16:12.029] V-0031 ha colocado los productos en el mostrador
+[11:16:12.029] V-0031 sale del mostrador
+[11:16:12.029] V-0031 vuelve a la sala de descanso
+[11:16:12.046] C-0027 se dirige a la cafeteria
+[11:16:12.074] B-0026 entra en la despensa para depositar
+[11:16:12.074] CocineroB-0026 ha colocado los productos en la despensa
+[11:16:12.074] B-0026 sale de la despensa
+[11:16:12.074] B-0026 vuelve a la sala de descanso
+[11:16:12.218] B-0001 entra en la cocina
+[11:16:12.218] B-0001 produce 3 cafes y 7 rosquillas
+[11:16:12.224] V-0042 descansa en la sala
+[11:16:12.234] B-0013 sale de la cocina
+[11:16:12.234] B-0013 se dirige a la despensa
+[11:16:12.276] V-0028 descansa en la sala
+[11:16:12.345] B-0028 sale de la cocina
+[11:16:12.345] B-0028 se dirige a la despensa
+[11:16:12.358] B-0036 entra en la cocina
+[11:16:12.358] B-0036 produce 4 cafes y 8 rosquillas
+[11:16:12.364] C-0013 termina y se va
+[11:16:12.369] V-0015 descansa en la sala
+[11:16:12.371] V-0007 ha seleccionado 3 cafes y 6 rosquillas
+[11:16:12.371] V-0007 sale de la despensa
+[11:16:12.371] V-0007 se dirige al mostrador
+[11:16:12.376] V-0037 se dirige a la despensa
+[11:16:12.441] C-0032 esta en el parque
+[11:16:12.496] V-0019 ha seleccionado 4 cafes y 8 rosquillas
+[11:16:12.496] V-0019 sale de la despensa
+[11:16:12.496] V-0019 se dirige al mostrador
+[11:16:12.497] B-0002 entra en la cocina
+[11:16:12.497] B-0002 produce 4 cafes y 4 rosquillas
+[11:16:12.505] B-0010 descansa en la sala
+[11:16:12.617] V-0018 descansa en la sala
+[11:16:12.617] B-0012 entra en la despensa para depositar
+[11:16:12.617] CocineroB-0012 ha colocado los productos en la despensa
+[11:16:12.617] B-0012 sale de la despensa
+[11:16:12.617] B-0012 vuelve a la sala de descanso
+[11:16:12.640] V-0020 ha seleccionado 4 cafes y 10 rosquillas
+[11:16:12.640] V-0020 sale de la despensa
+[11:16:12.640] V-0020 se dirige al mostrador
+[11:16:12.668] B-0009 descansa en la sala
+[11:16:12.862] B-0040 descansa en la sala
+[11:16:12.918] V-0043 descansa en la sala
+[11:16:13.026] V-0012 descansa en la sala
+[11:16:13.029] V-0032 entra en el mostrador
+[11:16:13.031] B-0035 entra en la cocina
+[11:16:13.031] B-0035 produce 2 cafes y 4 rosquillas
+[11:16:13.051] B-0014 sale de la cocina
+[11:16:13.051] B-0014 se dirige a la despensa
+[11:16:13.084] C-0024 sale de la zona previa
+[11:16:13.084] C-0024 entra en el mostrador
+[11:16:13.084] C-0024 retira 3 cafes
+[11:16:13.084] C-0024 retira 2 rosquillas
+[11:16:13.105] B-0021 se dirige a la cocina
+[11:16:13.191] V-0030 entra en el mostrador
+[11:16:13.276] C-0023 paga y sale de la caja
+[11:16:13.276] C-0023 entra al area de consumo
+[11:16:13.445] C-0026 entra en la zona previa
+[11:16:13.451] V-0025 se dirige a la despensa
+[11:16:13.456] B-0027 entra en la despensa para depositar
+[11:16:13.456] CocineroB-0027 ha colocado los productos en la despensa
+[11:16:13.456] B-0027 sale de la despensa
+[11:16:13.456] B-0027 vuelve a la sala de descanso
+[11:16:13.489] V-0017 descansa en la sala
+[11:16:13.521] V-0009 se dirige a la despensa
+[11:16:13.544] V-0023 entra en la despensa
+[11:16:13.544] V-0023 retira 5 cafes
+[11:16:13.544] V-0023 retira 6 rosquillas
+[11:16:13.555] V-0004 entra en el mostrador
+[11:16:13.571] V-0024 ha seleccionado 4 cafes y 6 rosquillas
+[11:16:13.571] V-0024 sale de la despensa
+[11:16:13.571] V-0024 se dirige al mostrador
+[11:16:13.610] V-0038 se dirige a la despensa
+[11:16:13.618] V-0035 entra en el mostrador
+[11:16:13.625] V-0037 entra en la despensa
+[11:16:13.625] V-0037 retira 6 cafes
+[11:16:13.625] V-0037 retira 10 rosquillas
+[11:16:13.665] B-0029 sale de la cocina
+[11:16:13.665] B-0029 se dirige a la despensa
+[11:16:13.756] B-0024 descansa en la sala
+[11:16:13.848] C-0015 termina y se va
+[11:16:13.861] B-0018 entra en la cocina
+[11:16:13.861] B-0018 produce 3 cafes y 8 rosquillas
+[11:16:13.912] V-0005 se dirige a la despensa
+[11:16:13.929] C-0028 entra en la zona previa
+[11:16:13.952] C-0025 entra en la zona previa
+[11:16:13.981] C-0022 paga y sale de la caja
+[11:16:13.981] C-0022 entra al area de consumo
+[11:16:14.016] B-0007 se dirige a la cocina
+[11:16:14.036] V-0021 entra en el mostrador
+[11:16:14.066] V-0022 se dirige a la despensa
+[11:16:14.123] V-0013 entra en la despensa
+[11:16:14.123] V-0013 retira 5 cafes
+[11:16:14.123] V-0013 retira 8 rosquillas
+[11:16:14.127] V-0034 ha seleccionado 6 cafes y 6 rosquillas
+[11:16:14.127] V-0034 sale de la despensa
+[11:16:14.127] V-0034 se dirige al mostrador
+[11:16:14.132] V-0029 descansa en la sala
+[11:16:14.251] B-0026 descansa en la sala
+[11:16:14.312] V-0016 descansa en la sala
+[11:16:14.421] B-0031 sale de la cocina
+[11:16:14.421] B-0031 se dirige a la despensa
+[11:16:14.456] V-0044 descansa en la sala
+[11:16:14.485] V-0008 entra en la despensa
+[11:16:14.485] V-0008 retira 5 cafes
+[11:16:14.485] V-0008 retira 8 rosquillas
+[11:16:14.493] B-0019 se dirige a la cocina
+[11:16:14.630] B-0003 se dirige a la cocina
+[11:16:14.637] B-0041 descansa en la sala
+[11:16:14.644] V-0006 entra en el mostrador
+[11:16:14.664] V-0010 se dirige a la despensa
+[11:16:14.669] V-0007 entra en el mostrador
+[11:16:14.685] V-0025 entra en la despensa
+[11:16:14.685] V-0025 retira 3 cafes
+[11:16:14.685] V-0025 retira 6 rosquillas
+[11:16:14.700] C-0033 esta en el parque
+[11:16:14.723] V-0030 ha colocado los productos en el mostrador
+[11:16:14.723] V-0030 sale del mostrador
+[11:16:14.723] V-0030 vuelve a la sala de descanso
+[11:16:14.726] V-0011 se dirige a la despensa
+[11:16:14.755] B-0030 sale de la cocina
+[11:16:14.755] B-0030 se dirige a la despensa
+[11:16:14.800] B-0012 descansa en la sala
+[11:16:14.823] B-0015 entra en la despensa para depositar
+[11:16:14.823] CocineroB-0015 ha colocado los productos en la despensa
+[11:16:14.823] B-0015 sale de la despensa
+[11:16:14.823] B-0015 vuelve a la sala de descanso
+[11:16:14.858] V-0020 entra en el mostrador
+[11:16:14.884] V-0036 se dirige a la despensa
+[11:16:14.972] V-0003 entra en el mostrador
+[11:16:14.977] V-0002 se dirige a la despensa
+[11:16:15.022] B-0034 sale de la cocina
+[11:16:15.022] B-0034 se dirige a la despensa
+[11:16:15.071] V-0035 ha colocado los productos en el mostrador
+[11:16:15.071] V-0035 sale del mostrador
+[11:16:15.071] V-0035 vuelve a la sala de descanso
+[11:16:15.115] V-0019 entra en el mostrador
+[11:16:15.140] V-0023 ha seleccionado 5 cafes y 6 rosquillas
+[11:16:15.140] V-0023 sale de la despensa
+[11:16:15.140] V-0023 se dirige al mostrador
+[11:16:15.161] B-0032 sale de la cocina
+[11:16:15.161] B-0032 se dirige a la despensa
+[11:16:15.179] B-0014 entra en la despensa para depositar
+[11:16:15.179] CocineroB-0014 ha colocado los productos en la despensa
+[11:16:15.179] B-0014 sale de la despensa
+[11:16:15.179] B-0014 vuelve a la sala de descanso
+[11:16:15.207] B-0008 se dirige a la cocina
+[11:16:15.261] C-0016 termina y se va
+[11:16:15.281] V-0033 entra en el mostrador
+[11:16:15.382] B-0006 descansa en la sala
+[11:16:15.387] V-0001 descansa en la sala
+[11:16:15.415] B-0021 entra en la cocina
+[11:16:15.415] B-0021 produce 5 cafes y 5 rosquillas
+[11:16:15.501] V-0008 ha seleccionado 5 cafes y 8 rosquillas
+[11:16:15.501] V-0008 sale de la despensa
+[11:16:15.501] V-0008 se dirige al mostrador
+[11:16:15.556] V-0004 ha colocado los productos en el mostrador
+[11:16:15.556] V-0004 sale del mostrador
+[11:16:15.556] V-0004 vuelve a la sala de descanso
+[11:16:15.574] B-0028 entra en la despensa para depositar
+[11:16:15.574] CocineroB-0028 ha colocado los productos en la despensa
+[11:16:15.575] B-0028 sale de la despensa
+[11:16:15.575] B-0028 vuelve a la sala de descanso
+[11:16:15.592] V-0026 se dirige a la despensa
+[11:16:15.600] B-0019 entra en la cocina
+[11:16:15.600] B-0019 produce 4 cafes y 6 rosquillas
+[11:16:15.637] B-0007 entra en la cocina
+[11:16:15.637] B-0007 produce 5 cafes y 7 rosquillas
+[11:16:15.820] V-0025 ha seleccionado 3 cafes y 6 rosquillas
+[11:16:15.820] V-0025 sale de la despensa
+[11:16:15.820] V-0025 se dirige al mostrador
+[11:16:15.824] B-0029 entra en la despensa para depositar
+[11:16:15.824] CocineroB-0029 ha colocado los productos en la despensa
+[11:16:15.824] B-0029 sale de la despensa
+[11:16:15.824] B-0029 vuelve a la sala de descanso
+[11:16:15.861] V-0022 entra en la despensa
+[11:16:15.861] V-0022 retira 4 cafes
+[11:16:15.861] V-0022 retira 7 rosquillas
+[11:16:15.869] C-0025 sale de la zona previa
+[11:16:15.869] C-0025 entra en el mostrador
+[11:16:15.869] C-0025 retira 3 cafes
+[11:16:15.869] C-0025 retira 2 rosquillas
+[11:16:15.887] C-0018 termina y se va
+[11:16:15.896] B-0037 se dirige a la cocina
+[11:16:15.927] B-0022 se dirige a la cocina
+[11:16:15.928] V-0032 ha colocado los productos en el mostrador
+[11:16:15.928] V-0032 sale del mostrador
+[11:16:15.928] V-0032 vuelve a la sala de descanso
+[11:16:16.021] V-0007 ha colocado los productos en el mostrador
+[11:16:16.021] V-0007 sale del mostrador
+[11:16:16.021] V-0007 vuelve a la sala de descanso
+[11:16:16.046] V-0011 entra en la despensa
+[11:16:16.046] V-0011 retira 3 cafes
+[11:16:16.046] V-0011 retira 8 rosquillas
+[11:16:16.075] C-0029 se dirige a la cafeteria
+[11:16:16.084] C-0026 sale de la zona previa
+[11:16:16.084] C-0026 entra en el mostrador
+[11:16:16.084] C-0026 retira 3 cafes
+[11:16:16.084] C-0026 retira 3 rosquillas
+[11:16:16.090] V-0003 ha colocado los productos en el mostrador
+[11:16:16.090] V-0003 sale del mostrador
+[11:16:16.090] V-0003 vuelve a la sala de descanso
+[11:16:16.109] C-0017 termina y se va
+[11:16:16.115] V-0013 ha seleccionado 5 cafes y 8 rosquillas
+[11:16:16.115] V-0013 sale de la despensa
+[11:16:16.115] V-0013 se dirige al mostrador
+[11:16:16.217] C-0028 sale de la zona previa
+[11:16:16.217] C-0028 entra en el mostrador
+[11:16:16.217] C-0028 retira 3 cafes
+[11:16:16.217] C-0028 retira 4 rosquillas
+[11:16:16.257] V-0021 ha colocado los productos en el mostrador
+[11:16:16.257] V-0021 sale del mostrador
+[11:16:16.257] V-0021 vuelve a la sala de descanso
+[11:16:16.283] V-0031 descansa en la sala
+[11:16:16.316] C-0019 termina y se va
+[11:16:16.337] SISTEMA PAUSADO
+[11:16:16.365] B-0042 descansa en la sala
+[11:16:16.381] V-0020 ha colocado los productos en el mostrador
+[11:16:16.381] V-0020 sale del mostrador
+[11:16:16.381] V-0020 vuelve a la sala de descanso
+[11:16:16.450] V-0037 ha seleccionado 6 cafes y 10 rosquillas
+[11:16:16.450] V-0037 sale de la despensa
+[11:16:16.450] V-0037 se dirige al mostrador
+[11:16:16.612] V-0045 descansa en la sala
+[11:16:16.655] V-0006 ha colocado los productos en el mostrador
+[11:16:16.655] V-0006 sale del mostrador
+[11:16:16.656] V-0006 vuelve a la sala de descanso
+[11:16:16.711] B-0016 sale de la cocina
+[11:16:16.711] B-0016 se dirige a la despensa
+[11:16:16.812] C-0024 ha seleccionado 3 cafes y 2 rosquillas
+[11:16:16.812] C-0024 sale del mostrador
+[11:16:16.812] C-0024 accede a la caja
+[11:16:16.850] C-0034 esta en el parque
+[11:16:16.971] V-0019 ha colocado los productos en el mostrador
+[11:16:16.971] V-0019 sale del mostrador
+[11:16:16.971] V-0019 vuelve a la sala de descanso
+[11:16:17.855] C-0035 esta en el parque
+[11:16:17.859] B-0043 descansa en la sala
+[11:16:17.984] V-0033 ha colocado los productos en el mostrador
+[11:16:17.984] V-0033 sale del mostrador
+[11:16:17.984] V-0033 vuelve a la sala de descanso
+[11:16:18.407] V-0046 descansa en la sala
+[11:16:18.443] V-0022 ha seleccionado 4 cafes y 7 rosquillas
+[11:16:18.443] V-0022 sale de la despensa
+[11:16:18.443] V-0022 se dirige al mostrador
+[11:16:18.570] B-0017 sale de la cocina
+[11:16:18.570] B-0017 se dirige a la despensa
+[11:16:18.681] V-0011 ha seleccionado 3 cafes y 8 rosquillas
+[11:16:18.681] V-0011 sale de la despensa
+[11:16:18.681] V-0011 se dirige al mostrador
+[11:16:18.704] B-0033 sale de la cocina
+[11:16:18.704] B-0033 se dirige a la despensa
+[11:16:18.730] C-0025 ha seleccionado 3 cafes y 2 rosquillas
+[11:16:18.730] C-0025 sale del mostrador
+[11:16:18.730] C-0025 accede a la caja
+[11:16:18.950] B-0036 sale de la cocina
+[11:16:18.950] B-0036 se dirige a la despensa
+[11:16:19.176] B-0044 descansa en la sala
+[11:16:19.290] C-0026 ha seleccionado 3 cafes y 3 rosquillas
+[11:16:19.290] C-0026 sale del mostrador
+[11:16:19.290] C-0026 accede a la caja
+[11:16:19.384] B-0004 sale de la cocina
+[11:16:19.384] B-0004 se dirige a la despensa
+[11:16:19.464] B-0001 sale de la cocina
+[11:16:19.464] B-0001 se dirige a la despensa
+[11:16:19.667] C-0036 esta en el parque
+[11:16:19.750] V-0047 descansa en la sala
+[11:16:19.847] C-0028 ha seleccionado 3 cafes y 4 rosquillas
+[11:16:19.847] C-0028 sale del mostrador
+[11:16:19.847] C-0028 accede a la caja
+[11:16:19.875] B-0002 sale de la cocina
+[11:16:19.875] B-0002 se dirige a la despensa
+[11:16:20.443] B-0018 sale de la cocina
+[11:16:20.443] B-0018 se dirige a la despensa
+[11:16:20.695] C-0037 esta en el parque
+[11:16:21.012] B-0045 descansa en la sala
+[11:16:21.266] B-0007 sale de la cocina
+[11:16:21.266] B-0007 se dirige a la despensa
+[11:16:21.386] B-0019 sale de la cocina
+[11:16:21.387] B-0019 se dirige a la despensa
+[11:16:22.054] B-0046 descansa en la sala
+[11:16:22.058] V-0048 descansa en la sala
+[11:16:22.314] B-0035 sale de la cocina
+[11:16:22.314] B-0035 se dirige a la despensa
+[11:16:23.452] C-0038 esta en el parque
+[11:16:23.712] B-0047 descansa en la sala
+[11:16:24.169] V-0049 descansa en la sala
+[11:16:24.942] B-0021 sale de la cocina
+[11:16:24.942] B-0021 se dirige a la despensa
+[11:16:25.020] V-0050 descansa en la sala
+[11:16:25.641] B-0048 descansa en la sala
+[11:16:25.946] C-0039 esta en el parque
+[11:16:26.546] V-0051 descansa en la sala
+[11:16:27.374] C-0040 esta en el parque
+[11:16:27.432] B-0049 descansa en la sala
+[11:16:28.814] B-0050 descansa en la sala
+[11:16:28.975] V-0052 descansa en la sala
+[11:16:29.501] C-0041 esta en el parque
+[11:16:29.950] V-0053 descansa en la sala
+[11:16:30.404] B-0051 descansa en la sala
+[11:16:30.537] V-0054 descansa en la sala
+[11:16:31.502] C-0042 esta en el parque
+[11:16:31.553] B-0052 descansa en la sala
+[11:16:32.747] V-0055 descansa en la sala
+[11:16:32.924] B-0053 descansa en la sala
+[11:16:33.919] C-0043 esta en el parque
+[11:16:33.994] B-0054 descansa en la sala
+[11:16:34.902] V-0056 descansa en la sala
+[11:16:35.665] B-0055 descansa en la sala
+[11:16:35.707] C-0044 esta en el parque
+[11:16:36.714] V-0057 descansa en la sala
+[11:16:37.217] B-0056 descansa en la sala
+[11:16:38.295] V-0058 descansa en la sala
+[11:16:38.409] C-0045 esta en el parque
+[11:16:38.914] B-0057 descansa en la sala
+[11:16:39.332] V-0059 descansa en la sala
+[11:16:39.536] C-0046 esta en el parque
+[11:16:40.626] B-0058 descansa en la sala
+[11:16:41.551] V-0060 descansa en la sala
+[11:16:42.354] C-0047 esta en el parque
+[11:16:42.405] B-0059 descansa en la sala
+[11:16:43.520] V-0061 descansa en la sala
+[11:16:44.021] B-0060 descansa en la sala
+[11:16:44.723] V-0062 descansa en la sala
+[11:16:44.922] C-0048 esta en el parque
+[11:16:45.534] B-0061 descansa en la sala
+[11:16:45.885] V-0063 descansa en la sala
+[11:16:46.052] C-0049 esta en el parque
+[11:16:46.546] B-0062 descansa en la sala
+[11:16:47.691] C-0050 esta en el parque
+[11:16:47.716] B-0063 descansa en la sala
+[11:16:47.900] V-0064 descansa en la sala
+[11:16:49.423] C-0051 esta en el parque
+[11:16:49.508] V-0065 descansa en la sala
+[11:16:49.544] B-0064 descansa en la sala
+[11:16:50.442] V-0066 descansa en la sala
+[11:16:51.146] B-0065 descansa en la sala
+[11:16:51.572] V-0067 descansa en la sala
+[11:16:52.301] V-0068 descansa en la sala
+[11:16:52.368] C-0052 esta en el parque
+[11:16:52.612] B-0066 descansa en la sala
+[11:16:53.367] V-0069 descansa en la sala
